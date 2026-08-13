@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gamedev"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Formats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Webdev"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Templating"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data structures"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "Compilers, transpilers, binding generators, and other language-related tools.",
+      "items": [],
+      "title": "Language Tooling"
+    },
+    {
+      "description": "This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to Official Package Documentation.",
+      "items": [],
+      "title": "Built-in"
+    },
+    {
+      "description": "Base packages are required by the compiler",
+      "items": [],
+      "title": "Base"
+    },
+    {
+      "description": "The core packages implement most of the common features you need while working with Odin",
+      "items": [],
+      "title": "Core"
+    },
+    {
+      "description": "Vendor packages are commonly-used third-party libraries distributed along with the compiler",
+      "items": [],
+      "title": "Vendor"
+    },
+    {
+      "description": "List of Odin bindings to C/C++ libraries.\nIf you can't find the bindings you need, then you can try using this generator: https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).\nUseful Github Gists in Odin.\nList of Odin tutorials, articles, videos and other resources.",
+      "items": [],
+      "title": "Bindings"
+    },
+    {
+      "description": "Open-source software implemented in Odin.",
+      "items": [],
+      "title": "Open-source Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:40:41.100Z",
+    "original_repository": "jakubtomsu/awesome-odin",
+    "original_repository_sha": "e0e7cb67eeea39bfc9063d1de9f6e6f33b7e2925",
+    "enhanced_repository": "enhansome/enhansome-odin",
+    "enhanced_repository_description": null,
+    "title": "Awesome Getting Started with stars"
+  }
+}
