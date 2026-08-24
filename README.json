@@ -1,6 +1,3483 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Odin Wiki Libs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74583692,
+            "language": "Odin",
+            "last_commit": "2026-08-24T13:13:35Z",
+            "owner": "odin-lang",
+            "repo": "Odin",
+            "stars": 11783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demo.odin",
+          "description": "is an example of odin's features in practice",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74583692,
+            "language": "Odin",
+            "last_commit": "2026-08-24T13:13:35Z",
+            "owner": "odin-lang",
+            "repo": "Odin",
+            "stars": 11783
+          }
+        }
+      ],
+      "title": "Other Lists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ravn Engine",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1126941279,
+                    "language": "Odin",
+                    "last_commit": "2026-08-23T01:47:37Z",
+                    "owner": "jakubtomsu",
+                    "repo": "ravn",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1126941279,
+                    "language": "Odin",
+                    "last_commit": "2026-08-23T01:47:37Z",
+                    "owner": "jakubtomsu",
+                    "repo": "ravn",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Karl 2D",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1038595872,
+                    "language": "Odin",
+                    "last_commit": "2026-08-23T21:55:05Z",
+                    "owner": "karl-zylinski",
+                    "repo": "karl2d",
+                    "stars": 646
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zlib",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1038595872,
+                    "language": "Odin",
+                    "last_commit": "2026-08-23T21:55:05Z",
+                    "owner": "karl-zylinski",
+                    "repo": "karl2d",
+                    "stars": 646
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jamgine",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 780163611,
+                    "language": "Odin",
+                    "last_commit": "2024-04-27T18:15:49Z",
+                    "owner": "asbott",
+                    "repo": "jamgine",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 780163611,
+                    "language": "Odin",
+                    "last_commit": "2024-04-27T18:15:49Z",
+                    "owner": "asbott",
+                    "repo": "jamgine",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LBP Serialization",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 691648742,
+                    "language": "Odin",
+                    "last_commit": "2026-03-01T18:19:32Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-lbp-serialization",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 691648742,
+                    "language": "Odin",
+                    "last_commit": "2026-03-01T18:19:32Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-lbp-serialization",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jobs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699740177,
+                    "language": "Odin",
+                    "last_commit": "2026-07-24T00:58:02Z",
+                    "owner": "jakubtomsu",
+                    "repo": "jobs",
+                    "stars": 133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699740177,
+                    "language": "Odin",
+                    "last_commit": "2026-07-24T00:58:02Z",
+                    "owner": "jakubtomsu",
+                    "repo": "jobs",
+                    "stars": 133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Godot Toolkit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 633384008,
+                    "language": "Odin",
+                    "last_commit": "2025-12-01T23:18:43Z",
+                    "owner": "dresswithpockets",
+                    "repo": "odin-godot",
+                    "stars": 157
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apache 2.0",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 633384008,
+                    "language": "Odin",
+                    "last_commit": "2025-12-01T23:18:43Z",
+                    "owner": "dresswithpockets",
+                    "repo": "odin-godot",
+                    "stars": 157
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "glTF2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 596606828,
+                    "language": "Odin",
+                    "last_commit": "2026-08-15T18:40:41Z",
+                    "owner": "Pawel82S",
+                    "repo": "glTF2",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 596606828,
+                    "language": "Odin",
+                    "last_commit": "2026-08-15T18:40:41Z",
+                    "owner": "Pawel82S",
+                    "repo": "glTF2",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Aseprite loader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 768399806,
+                    "language": "Odin",
+                    "last_commit": "2026-07-15T04:47:37Z",
+                    "owner": "blob1807",
+                    "repo": "odin-aseprite",
+                    "stars": 65
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD 3-Clause",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 768399806,
+                    "language": "Odin",
+                    "last_commit": "2026-07-15T04:47:37Z",
+                    "owner": "blob1807",
+                    "repo": "odin-aseprite",
+                    "stars": 65
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Odin + Raylib Hotreloading Template",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786211722,
+                    "language": "Odin",
+                    "last_commit": "2026-08-08T23:51:43Z",
+                    "owner": "karl-zylinski",
+                    "repo": "odin-raylib-hot-reload-game-template",
+                    "stars": 611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Custom",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786211722,
+                    "language": "Odin",
+                    "last_commit": "2026-08-08T23:51:43Z",
+                    "owner": "karl-zylinski",
+                    "repo": "odin-raylib-hot-reload-game-template",
+                    "stars": 611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Odin + Sokol Template",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 922290984,
+                    "language": "C",
+                    "last_commit": "2026-04-17T21:20:12Z",
+                    "owner": "karl-zylinski",
+                    "repo": "odin-sokol-web",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 922290984,
+                    "language": "C",
+                    "last_commit": "2026-04-17T21:20:12Z",
+                    "owner": "karl-zylinski",
+                    "repo": "odin-sokol-web",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Anima",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784865253,
+                    "language": "Odin",
+                    "last_commit": "2026-04-16T13:20:52Z",
+                    "owner": "atomicptr",
+                    "repo": "anima",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A 2D animation library for Odin. Inspired by the LÖVE library anim8",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3574209,
+                    "language": "Lua",
+                    "last_commit": "2022-01-20T22:22:06Z",
+                    "owner": "kikito",
+                    "repo": "anim8",
+                    "stars": 988
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784865253,
+                    "language": "Odin",
+                    "last_commit": "2026-04-16T13:20:52Z",
+                    "owner": "atomicptr",
+                    "repo": "anima",
+                    "stars": 47
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZTME",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 788090331,
+                    "language": "Odin",
+                    "last_commit": "2024-04-21T14:24:46Z",
+                    "owner": "Z7-Z7L",
+                    "repo": "ZTME",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 788090331,
+                    "language": "Odin",
+                    "last_commit": "2024-04-21T14:24:46Z",
+                    "owner": "Z7-Z7L",
+                    "repo": "ZTME",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pathgrid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786539184,
+                    "language": "Odin",
+                    "last_commit": "2026-04-22T16:52:09Z",
+                    "owner": "scoobery",
+                    "repo": "odin_pathgrid",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD 3-Clause \"New\" or \"Revised\"",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 786539184,
+                    "language": "Odin",
+                    "last_commit": "2026-04-22T16:52:09Z",
+                    "owner": "scoobery",
+                    "repo": "odin_pathgrid",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VEFontCache",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 820716748,
+                    "language": "Odin",
+                    "last_commit": "2025-09-14T17:35:03Z",
+                    "owner": "Ed94",
+                    "repo": "VEFontCache-Odin",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A port of Vertex Engine GPU Font Cache (VEFontCache",
+                  "description": ") for the Odin programming language",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325757407,
+                    "language": "C",
+                    "last_commit": "2026-05-28T07:42:18Z",
+                    "owner": "hypernewbie",
+                    "repo": "VEFontCache",
+                    "stars": 382
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Custom",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 820716748,
+                    "language": "Odin",
+                    "last_commit": "2025-09-14T17:35:03Z",
+                    "owner": "Ed94",
+                    "repo": "VEFontCache-Odin",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dusk",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 807834082,
+                    "language": "Odin",
+                    "last_commit": "2024-12-30T22:24:21Z",
+                    "owner": "JerMakesStuff",
+                    "repo": "Dusk",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 807834082,
+                    "language": "Odin",
+                    "last_commit": "2024-12-30T22:24:21Z",
+                    "owner": "JerMakesStuff",
+                    "repo": "Dusk",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mikktspace",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 888234640,
+                    "language": "Odin",
+                    "last_commit": "2026-07-16T00:10:16Z",
+                    "owner": "wrapperup",
+                    "repo": "odin-mikktspace",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zlib",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 888234640,
+                    "language": "Odin",
+                    "last_commit": "2026-07-16T00:10:16Z",
+                    "owner": "wrapperup",
+                    "repo": "odin-mikktspace",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Valhalla",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729525014,
+                    "language": "Odin",
+                    "last_commit": "2026-05-18T19:59:35Z",
+                    "owner": "xandaron",
+                    "repo": "Valhalla",
+                    "stars": 60
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729525014,
+                    "language": "Odin",
+                    "last_commit": "2026-05-18T19:59:35Z",
+                    "owner": "xandaron",
+                    "repo": "Valhalla",
+                    "stars": 60
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Anvil",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1036119995,
+                    "language": "Odin",
+                    "last_commit": "2026-01-30T09:12:39Z",
+                    "owner": "ariaghora",
+                    "repo": "anvil",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1036119995,
+                    "language": "Odin",
+                    "last_commit": "2026-01-30T09:12:39Z",
+                    "owner": "ariaghora",
+                    "repo": "anvil",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "muninn",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1146706457,
+                    "language": "Odin",
+                    "last_commit": "2026-03-29T20:00:29Z",
+                    "owner": "GuilHartt",
+                    "repo": "muninn",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zlib",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1146706457,
+                    "language": "Odin",
+                    "last_commit": "2026-03-29T20:00:29Z",
+                    "owner": "GuilHartt",
+                    "repo": "muninn",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "odecs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 859324280,
+                    "language": "Odin",
+                    "last_commit": "2026-03-01T00:15:50Z",
+                    "owner": "NateTheGreatt",
+                    "repo": "odecs",
+                    "stars": 101
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 859324280,
+                    "language": "Odin",
+                    "last_commit": "2026-03-01T00:15:50Z",
+                    "owner": "NateTheGreatt",
+                    "repo": "odecs",
+                    "stars": 101
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "moecs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1193874217,
+                    "language": "Odin",
+                    "last_commit": "2026-08-21T16:28:41Z",
+                    "owner": "helioscout",
+                    "repo": "moecs",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1193874217,
+                    "language": "Odin",
+                    "last_commit": "2026-08-21T16:28:41Z",
+                    "owner": "helioscout",
+                    "repo": "moecs",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Odin Unity Interop",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1100785797,
+                    "language": "C#",
+                    "last_commit": "2026-02-17T11:44:43Z",
+                    "owner": "herohiralal",
+                    "repo": "com.herohiralal.odininterop",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apache 2.0",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1100785797,
+                    "language": "C#",
+                    "last_commit": "2026-02-17T11:44:43Z",
+                    "owner": "herohiralal",
+                    "repo": "com.herohiralal.odininterop",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Marshmallow engine",
+                  "description": "WIP Game Engine written in pure Odin None Gamedev, Engine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 602095063,
+                    "language": "Odin",
+                    "last_commit": "2024-11-08T14:34:03Z",
+                    "owner": "DragosPopse",
+                    "repo": "marshmallow",
+                    "stars": 53
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Gamedev"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Vox loader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 711635502,
+                    "language": "Odin",
+                    "last_commit": "2023-12-14T07:52:28Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-vox",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 711635502,
+                    "language": "Odin",
+                    "last_commit": "2023-12-14T07:52:28Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-vox",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LDtk utility",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663588908,
+                    "language": "Odin",
+                    "last_commit": "2026-04-23T13:47:10Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-ldtk",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663588908,
+                    "language": "Odin",
+                    "last_commit": "2026-04-23T13:47:10Z",
+                    "owner": "jakubtomsu",
+                    "repo": "odin-ldtk",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tiled loader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 894845556,
+                    "language": "Odin",
+                    "last_commit": "2026-07-04T19:39:00Z",
+                    "owner": "SabeDoesThings",
+                    "repo": "odin-tiled",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 894845556,
+                    "language": "Odin",
+                    "last_commit": "2026-07-04T19:39:00Z",
+                    "owner": "SabeDoesThings",
+                    "repo": "odin-tiled",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "File Formats",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427761259,
+                    "language": "Odin",
+                    "last_commit": "2025-08-11T17:42:16Z",
+                    "owner": "Kelimion",
+                    "repo": "odin-file-formats",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD-3",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427761259,
+                    "language": "Odin",
+                    "last_commit": "2025-08-11T17:42:16Z",
+                    "owner": "Kelimion",
+                    "repo": "odin-file-formats",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "INI Parser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 620508044,
+                    "language": "Odin",
+                    "last_commit": "2024-02-12T19:37:03Z",
+                    "owner": "laytan",
+                    "repo": "odin-ini-parser",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 620508044,
+                    "language": "Odin",
+                    "last_commit": "2024-02-12T19:37:03Z",
+                    "owner": "laytan",
+                    "repo": "odin-ini-parser",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDB Reader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 489925025,
+                    "language": "Odin",
+                    "last_commit": "2024-02-21T13:34:47Z",
+                    "owner": "DaseinPhaos",
+                    "repo": "pdb",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD-2-Clause",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 489925025,
+                    "language": "Odin",
+                    "last_commit": "2024-02-21T13:34:47Z",
+                    "owner": "DaseinPhaos",
+                    "repo": "pdb",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Java classfile parser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695532556,
+                    "language": "Odin",
+                    "last_commit": "2026-02-22T14:04:25Z",
+                    "owner": "FourteenBrush",
+                    "repo": "Classreader",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695532556,
+                    "language": "Odin",
+                    "last_commit": "2026-02-22T14:04:25Z",
+                    "owner": "FourteenBrush",
+                    "repo": "Classreader",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RFC 3339 Date Parser",
+                  "description": "Parser for the RFC 3339 date & time spec written in odin, follows the TOML spec None Format, Parser",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 789512943,
+                    "language": "Odin",
+                    "last_commit": "2026-01-12T11:23:42Z",
+                    "owner": "Up05",
+                    "repo": "date-parser",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TOML Parser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814756693,
+                    "language": "Odin",
+                    "last_commit": "2026-05-25T12:26:39Z",
+                    "owner": "Up05",
+                    "repo": "toml_parser",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814756693,
+                    "language": "Odin",
+                    "last_commit": "2026-05-25T12:26:39Z",
+                    "owner": "Up05",
+                    "repo": "toml_parser",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BML Parser",
+                  "description": "Structured binary parser based on XML schemes None",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 808334447,
+                    "language": "Odin",
+                    "last_commit": "2024-06-15T20:57:35Z",
+                    "owner": "mabeh19",
+                    "repo": "bml",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Formats"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Odin HTTP",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637533282,
+                    "language": "Odin",
+                    "last_commit": "2026-08-19T18:00:38Z",
+                    "owner": "laytan",
+                    "repo": "odin-http",
+                    "stars": 434
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637533282,
+                    "language": "Odin",
+                    "last_commit": "2026-08-19T18:00:38Z",
+                    "owner": "laytan",
+                    "repo": "odin-http",
+                    "stars": 434
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Networking"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Gjallarhorn",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1280568957,
+                    "language": "Odin",
+                    "last_commit": "2026-07-24T19:16:33Z",
+                    "owner": "Lvcky-gg",
+                    "repo": "Gjallarhorn",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1280568957,
+                    "language": "Odin",
+                    "last_commit": "2026-07-24T19:16:33Z",
+                    "owner": "Lvcky-gg",
+                    "repo": "Gjallarhorn",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GraphQL Parser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 772766920,
+                    "language": "Odin",
+                    "last_commit": "2024-05-30T22:03:51Z",
+                    "owner": "thetarnav",
+                    "repo": "odin-graphql-parser",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 772766920,
+                    "language": "Odin",
+                    "last_commit": "2024-05-30T22:03:51Z",
+                    "owner": "thetarnav",
+                    "repo": "odin-graphql-parser",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open-OstrichDB",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1023794281,
+                    "language": "Odin",
+                    "last_commit": "2025-09-30T15:53:08Z",
+                    "owner": "Archetype-Dynamics",
+                    "repo": "Open-OstrichDB",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apache 2.0",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1023794281,
+                    "language": "Odin",
+                    "last_commit": "2025-09-30T15:53:08Z",
+                    "owner": "Archetype-Dynamics",
+                    "repo": "Open-OstrichDB",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OstrichDB-CLI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 817126064,
+                    "language": "Odin",
+                    "last_commit": "2025-05-30T02:03:14Z",
+                    "owner": "Archetype-Dynamics",
+                    "repo": "OstrichDB-CLI",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apache 2.0",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 817126064,
+                    "language": "Odin",
+                    "last_commit": "2025-05-30T02:03:14Z",
+                    "owner": "Archetype-Dynamics",
+                    "repo": "OstrichDB-CLI",
+                    "stars": 72
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Webdev"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mustache",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 712501689,
+                    "language": "Odin",
+                    "last_commit": "2026-04-27T14:20:47Z",
+                    "owner": "benjamindblock",
+                    "repo": "odin-mustache",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 712501689,
+                    "language": "Odin",
+                    "last_commit": "2026-04-27T14:20:47Z",
+                    "owner": "benjamindblock",
+                    "repo": "odin-mustache",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Temple",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 688201087,
+                    "language": "Odin",
+                    "last_commit": "2024-11-21T17:50:20Z",
+                    "owner": "laytan",
+                    "repo": "temple",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 688201087,
+                    "language": "Odin",
+                    "last_commit": "2024-11-21T17:50:20Z",
+                    "owner": "laytan",
+                    "repo": "temple",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Templateless",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 986846345,
+                    "language": "Odin",
+                    "last_commit": "2025-06-18T07:35:34Z",
+                    "owner": "nviam",
+                    "repo": "odin-templateless",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "1-Clause BSD NON-AI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 986846345,
+                    "language": "Odin",
+                    "last_commit": "2025-06-18T07:35:34Z",
+                    "owner": "nviam",
+                    "repo": "odin-templateless",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Templating"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Red/Black Tree",
+                  "description": "Red Black Tree Implementation None Datastructure",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 739605644,
+                    "language": "Odin",
+                    "last_commit": "2024-01-19T02:50:07Z",
+                    "owner": "wilig",
+                    "repo": "red_black_tree",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Piece Table",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690371563,
+                    "language": "Odin",
+                    "last_commit": "2024-05-01T23:57:53Z",
+                    "owner": "xDahl",
+                    "repo": "Piece-Table",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690371563,
+                    "language": "Odin",
+                    "last_commit": "2024-05-01T23:57:53Z",
+                    "owner": "xDahl",
+                    "repo": "Piece-Table",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Shared Memory Queue",
+                  "description": "Thread safe lock free ring buffers that seek to minimize false sharing, MPMC and SPMC None Datastructure, Multithreading",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 674858748,
+                    "language": "Odin",
+                    "last_commit": "2023-08-06T03:05:31Z",
+                    "owner": "0xULT",
+                    "repo": "shm_queue",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data structures"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ADS1256 driver",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 552527155,
+                    "language": "Odin",
+                    "last_commit": "2022-10-16T19:44:29Z",
+                    "owner": "Platin21",
+                    "repo": "ads1256-odin",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 552527155,
+                    "language": "Odin",
+                    "last_commit": "2022-10-16T19:44:29Z",
+                    "owner": "Platin21",
+                    "repo": "ads1256-odin",
+                    "stars": 0
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mani",
+                  "description": "Lua bidirectional bindings generator None Lua, Generator",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 555803927,
+                    "language": "Odin",
+                    "last_commit": "2023-06-05T11:45:31Z",
+                    "owner": "DragosPopse",
+                    "repo": "mani",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "odin-build",
+                  "description": "Build system for Odin None Auxiliary, Tooling",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 578042417,
+                    "language": "Odin",
+                    "last_commit": "2024-05-10T16:40:46Z",
+                    "owner": "DragosPopse",
+                    "repo": "odin-build",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Snowflake",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645011967,
+                    "language": "Odin",
+                    "last_commit": "2023-06-17T17:37:30Z",
+                    "owner": "laytan",
+                    "repo": "odin-snowflake",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645011967,
+                    "language": "Odin",
+                    "last_commit": "2023-06-17T17:37:30Z",
+                    "owner": "laytan",
+                    "repo": "odin-snowflake",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "App Version",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 652332646,
+                    "language": "Odin",
+                    "last_commit": "2025-07-20T13:40:30Z",
+                    "owner": "wiremoons",
+                    "repo": "app_version",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 652332646,
+                    "language": "Odin",
+                    "last_commit": "2025-07-20T13:40:30Z",
+                    "owner": "wiremoons",
+                    "repo": "app_version",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CLI Argument Parser",
+                  "description": "Using types to specify how command line arguments should be parsed None Utility, CLI, Parser",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 678871254,
+                    "language": "Odin",
+                    "last_commit": "2024-08-09T15:41:21Z",
+                    "owner": "GoNZooo",
+                    "repo": "odin-cli",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Odin-style CLI Argument Parser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 682485222,
+                    "language": "Odin",
+                    "last_commit": "2024-07-15T18:15:14Z",
+                    "owner": "SjVer",
+                    "repo": "ClOdin",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 682485222,
+                    "language": "Odin",
+                    "last_commit": "2024-07-15T18:15:14Z",
+                    "owner": "SjVer",
+                    "repo": "ClOdin",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Terminal Color",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663232638,
+                    "language": "Odin",
+                    "last_commit": "2025-12-02T21:44:31Z",
+                    "owner": "hrszpuk",
+                    "repo": "odin-color",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663232638,
+                    "language": "Odin",
+                    "last_commit": "2025-12-02T21:44:31Z",
+                    "owner": "hrszpuk",
+                    "repo": "odin-color",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TermCL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 942214073,
+                    "language": "Odin",
+                    "last_commit": "2026-07-10T19:01:55Z",
+                    "owner": "RaphGL",
+                    "repo": "TermCL",
+                    "stars": 108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD 3-Clause License",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 942214073,
+                    "language": "Odin",
+                    "last_commit": "2026-07-10T19:01:55Z",
+                    "owner": "RaphGL",
+                    "repo": "TermCL",
+                    "stars": 108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Back",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 678593741,
+                    "language": "Odin",
+                    "last_commit": "2026-08-19T17:32:41Z",
+                    "owner": "laytan",
+                    "repo": "back",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 678593741,
+                    "language": "Odin",
+                    "last_commit": "2026-08-19T17:32:41Z",
+                    "owner": "laytan",
+                    "repo": "back",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muninn: Logging for Odin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1328842508,
+                    "language": "Odin",
+                    "last_commit": "2026-08-16T16:05:17Z",
+                    "owner": "dlroy88osu",
+                    "repo": "Muninn",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1328842508,
+                    "language": "Odin",
+                    "last_commit": "2026-08-16T16:05:17Z",
+                    "owner": "dlroy88osu",
+                    "repo": "Muninn",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Blaise",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 513310381,
+                    "language": "Odin",
+                    "last_commit": "2022-07-17T22:24:36Z",
+                    "owner": "gingerBill",
+                    "repo": "blaise",
+                    "stars": 149
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BSD Zero Clause",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 513310381,
+                    "language": "Odin",
+                    "last_commit": "2022-07-17T22:24:36Z",
+                    "owner": "gingerBill",
+                    "repo": "blaise",
+                    "stars": 149
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VecC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 917923413,
+                    "language": "Odin",
+                    "last_commit": "2025-02-24T17:27:35Z",
+                    "owner": "jakubtomsu",
+                    "repo": "vecc",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 917923413,
+                    "language": "Odin",
+                    "last_commit": "2025-02-24T17:27:35Z",
+                    "owner": "jakubtomsu",
+                    "repo": "vecc",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Runic",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777662334,
+                    "language": "Odin",
+                    "last_commit": "2026-07-11T10:02:57Z",
+                    "owner": "Samudevv",
+                    "repo": "runic",
+                    "stars": 98
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GNU v2.0",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777662334,
+                    "language": "Odin",
+                    "last_commit": "2026-07-11T10:02:57Z",
+                    "owner": "Samudevv",
+                    "repo": "runic",
+                    "stars": 98
+                  }
+                }
+              ],
+              "description": "Compilers, transpilers, binding generators, and other language-related tools.",
+              "node_type": "group",
+              "title": "Language Tooling"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fontstash",
+                  "description": "Odin implementation of Fontstash - a lightweight online font texture atlas builder Gamedev, Text, Graphics",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13000373,
+                    "language": "C",
+                    "last_commit": "2023-07-13T19:18:40Z",
+                    "owner": "memononen",
+                    "repo": "fontstash",
+                    "stars": 782
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "microui",
+                  "description": "Odin implementation of microui, a tiny immediate-mode UI library UI, Tools, ImGui, Gamedev",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149854705,
+                    "language": "C",
+                    "last_commit": "2024-08-13T19:01:59Z",
+                    "owner": "rxi",
+                    "repo": "microui",
+                    "stars": 6809
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "stb",
+                  "description": "Bindings for libs from STB Format, Gamedev, Assets, Utility",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20159867,
+                    "language": "C",
+                    "last_commit": "2026-08-02T06:42:09Z",
+                    "owner": "nothings",
+                    "repo": "stb",
+                    "stars": 34493
+                  }
+                }
+              ],
+              "description": "Vendor packages are commonly-used third-party libraries distributed along with the compiler",
+              "node_type": "group",
+              "title": "Vendor"
+            }
+          ],
+          "description": "This is a list of notable libraries which are distributed along with the Odin compiler. For a full list head over to Official Package Documentation.",
+          "node_type": "group",
+          "title": "Built-in"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sokol",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507981188,
+                "language": "C",
+                "last_commit": "2026-08-23T15:00:14Z",
+                "owner": "floooh",
+                "repo": "sokol-odin",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Odin bindings for Sokol",
+              "description": ", a collection of single-header C libraries for cross-platform windowing, graphics, audio, file loading, and more!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97212490,
+                "language": "C",
+                "last_commit": "2026-08-24T14:12:33Z",
+                "owner": "floooh",
+                "repo": "sokol",
+                "stars": 10235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97212490,
+                "language": "C",
+                "last_commit": "2026-08-24T14:12:33Z",
+                "owner": "floooh",
+                "repo": "sokol",
+                "stars": 10235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Assimp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583118469,
+                "language": "Odin",
+                "last_commit": "2026-06-10T04:38:44Z",
+                "owner": "CoolDove",
+                "repo": "odin-assimp",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583118469,
+                "language": "Odin",
+                "last_commit": "2026-06-10T04:38:44Z",
+                "owner": "CoolDove",
+                "repo": "odin-assimp",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bcm2835",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552528496,
+                "language": "Odin",
+                "last_commit": "2024-01-06T22:18:00Z",
+                "owner": "Platin21",
+                "repo": "odin-bcm2835",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552528496,
+                "language": "Odin",
+                "last_commit": "2024-01-06T22:18:00Z",
+                "owner": "Platin21",
+                "repo": "odin-bcm2835",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for bgfx",
+              "description": ", a cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3925242,
+                "language": "C++",
+                "last_commit": "2026-08-23T04:44:44Z",
+                "owner": "bkaradzic",
+                "repo": "bgfx",
+                "stars": 17429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clay",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 831578771,
+                "language": "C",
+                "last_commit": "2026-05-20T02:17:59Z",
+                "owner": "nicbarker",
+                "repo": "clay",
+                "stars": 17984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib/libpng",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 831578771,
+                "language": "C",
+                "last_commit": "2026-05-20T02:17:59Z",
+                "owner": "nicbarker",
+                "repo": "clay",
+                "stars": 17984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Box2C (Odin-style)",
+              "description": "Box2D 3.0 bindings for Odin language None Gamedev, Physics",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 766211586,
+                "language": "Odin",
+                "last_commit": "2024-08-19T20:01:07Z",
+                "owner": "cr1sth0fer",
+                "repo": "odin-box2d",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clipper2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169613253,
+                "language": "Odin",
+                "last_commit": "2026-03-08T09:52:02Z",
+                "owner": "Anaxarchus",
+                "repo": "odin_clipper2",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSL-1.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462938438,
+                "language": "C++",
+                "last_commit": "2026-04-20T01:18:06Z",
+                "owner": "AngusJohnson",
+                "repo": "Clipper2",
+                "stars": 2460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CUE SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431693111,
+                "language": "Odin",
+                "last_commit": "2021-11-25T12:20:15Z",
+                "owner": "Kelimion",
+                "repo": "odin-cue-sdk",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for the Corsair CUE SDK",
+              "description": ". Developers can use the iCUE SDK to access CORSAIR devices, enabling them to control device LEDs and create custom lighting experiences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222502380,
+                "language": "C",
+                "last_commit": "2024-06-12T05:21:52Z",
+                "owner": "CorsairOfficial",
+                "repo": "cue-sdk",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unlicense",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431693111,
+                "language": "Odin",
+                "last_commit": "2021-11-25T12:20:15Z",
+                "owner": "Kelimion",
+                "repo": "odin-cue-sdk",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EFSW",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740292277,
+                "language": "Odin",
+                "last_commit": "2024-05-07T20:33:18Z",
+                "owner": "dch-GH",
+                "repo": "efsw-odin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for the [Entropia file system watcher(https://github.com/diegostamigni/efsw",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10098128,
+                "language": "C++",
+                "last_commit": "2013-05-16T09:53:56Z",
+                "owner": "diegostamigni",
+                "repo": "efsw",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unknown",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740292277,
+                "language": "Odin",
+                "last_commit": "2024-05-07T20:33:18Z",
+                "owner": "dch-GH",
+                "repo": "efsw-odin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ffmpeg",
+              "description": "Bindings for ffmpeg, a complete, cross-platform solution to record, convert and stream audio and video None Video",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725723924,
+                "language": "Odin",
+                "last_commit": "2023-11-30T19:09:28Z",
+                "owner": "numbers-zz",
+                "repo": "odin-ffmpeg-bindings",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FMOD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657959575,
+                "language": "Odin",
+                "last_commit": "2026-01-03T09:11:25Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-fmod",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657959575,
+                "language": "Odin",
+                "last_commit": "2026-01-03T09:11:25Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-fmod",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freetype",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 414798126,
+                "language": "Odin",
+                "last_commit": "2024-12-17T23:28:06Z",
+                "owner": "englerj",
+                "repo": "odin-freetype",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 414798126,
+                "language": "Odin",
+                "last_commit": "2024-12-17T23:28:06Z",
+                "owner": "englerj",
+                "repo": "odin-freetype",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "harfbuzz",
+              "description": "Bindings for HarfBuzz BSD 2-clause Text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5050525,
+                "language": "C++",
+                "last_commit": "2026-08-24T10:13:48Z",
+                "owner": "harfbuzz",
+                "repo": "harfbuzz",
+                "stars": 6036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for ICU4C",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49244766,
+                "language": "C++",
+                "last_commit": "2026-08-22T01:07:40Z",
+                "owner": "unicode-org",
+                "repo": "icu",
+                "stars": 3584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImageMagick",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051003682,
+                "language": "Odin",
+                "last_commit": "2026-01-07T05:28:12Z",
+                "owner": "wrathdoesthat",
+                "repo": "odin-magick",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for the ImageMagick",
+              "description": "image manipulation library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35780977,
+                "language": "C",
+                "last_commit": "2026-08-24T13:50:05Z",
+                "owner": "ImageMagick",
+                "repo": "ImageMagick",
+                "stars": 17214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Custom",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051003682,
+                "language": "Odin",
+                "last_commit": "2026-01-07T05:28:12Z",
+                "owner": "wrathdoesthat",
+                "repo": "odin-magick",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jolt",
+              "description": "Bindings for the Jolt physics engine None Gamedev, 3D, Physics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395341383,
+                "language": "C++",
+                "last_commit": "2026-08-24T05:19:24Z",
+                "owner": "jrouwe",
+                "repo": "JoltPhysics",
+                "stars": 11420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libbfd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695658606,
+                "language": "Odin",
+                "last_commit": "2023-09-23T20:51:32Z",
+                "owner": "wardjm",
+                "repo": "odin-bfd",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for libbfd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20376479,
+                "language": "C",
+                "last_commit": "2017-02-01T05:05:35Z",
+                "owner": "CyberGrandChallenge",
+                "repo": "binutils",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPLv2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695658606,
+                "language": "Odin",
+                "last_commit": "2023-09-23T20:51:32Z",
+                "owner": "wardjm",
+                "repo": "odin-bfd",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibClang",
+              "description": "Bindings for libClang for Odin None",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348147476,
+                "language": "Odin",
+                "last_commit": "2022-01-08T23:37:19Z",
+                "owner": "Platin21",
+                "repo": "odin-clang",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libpcap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660696307,
+                "language": "Odin",
+                "last_commit": "2024-01-07T12:46:58Z",
+                "owner": "Pix-xiP",
+                "repo": "odin-libpcap",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for libpcap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9435887,
+                "language": "C",
+                "last_commit": "2026-08-21T13:02:24Z",
+                "owner": "the-tcpdump-group",
+                "repo": "libpcap",
+                "stars": 3163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libui-ng",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736817520,
+                "language": "Odin",
+                "last_commit": "2023-12-29T22:13:03Z",
+                "owner": "henkman",
+                "repo": "odin-libui-ng",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for libui-ng",
+              "description": "a portable GUI library for C. \"libui for the next generation\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445549601,
+                "language": "C",
+                "last_commit": "2025-03-15T22:37:32Z",
+                "owner": "libui-ng",
+                "repo": "libui-ng",
+                "stars": 880
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLVM",
+              "description": "Generated bindings for LLVM (LLVM-C 17.0.1), currently Windows-only None Compilers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739071007,
+                "language": "Odin",
+                "last_commit": "2024-01-06T02:54:57Z",
+                "owner": "DeLuxe-1337",
+                "repo": "LLVM-Odin",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luau",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795963740,
+                "language": "Odin",
+                "last_commit": "2024-05-06T12:41:36Z",
+                "owner": "MineBill",
+                "repo": "odin-luau",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795963740,
+                "language": "Odin",
+                "last_commit": "2024-05-06T12:41:36Z",
+                "owner": "MineBill",
+                "repo": "odin-luau",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LZ4",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644365343,
+                "language": "C",
+                "last_commit": "2025-12-28T10:01:40Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-lz4",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for LZ4",
+              "description": ", an extremely fast lossless compression library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18106269,
+                "language": "C",
+                "last_commit": "2026-07-01T06:42:40Z",
+                "owner": "lz4",
+                "repo": "lz4",
+                "stars": 12025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSD 2 Clause",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644365343,
+                "language": "C",
+                "last_commit": "2025-12-28T10:01:40Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-lz4",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "m3d",
+              "description": "Bindings for model3d format, a 3D model format specification and single header SDK. Supports skeletal animations, voxels and has the best data density None Gamedev, Graphics, 3D, Format",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 782733610,
+                "language": "C",
+                "last_commit": "2025-03-18T14:32:32Z",
+                "owner": "cr1sth0fer",
+                "repo": "odin-m3d",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meshoptimizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 456183107,
+                "language": "Odin",
+                "last_commit": "2026-06-05T12:20:11Z",
+                "owner": "DanielGavin",
+                "repo": "odin-meshoptimizer",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for meshoptimizer",
+              "description": ", a mesh optimization library that makes meshes smaller and faster to render",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67768325,
+                "language": "C++",
+                "last_commit": "2026-08-21T12:56:03Z",
+                "owner": "zeux",
+                "repo": "meshoptimizer",
+                "stars": 8257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mimalloc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642774036,
+                "language": "C",
+                "last_commit": "2023-05-29T17:36:52Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-mimalloc",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for mimalloc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192805335,
+                "language": "C",
+                "last_commit": "2026-08-22T10:49:34Z",
+                "owner": "microsoft",
+                "repo": "mimalloc",
+                "stars": 13326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642774036,
+                "language": "C",
+                "last_commit": "2023-05-29T17:36:52Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-mimalloc",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mpc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832503803,
+                "language": "Odin",
+                "last_commit": "2025-03-03T15:10:39Z",
+                "owner": "hpb0412",
+                "repo": "odin-mpc",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "This is a binding to the mpc",
+              "description": "for Odin programming language. Mpc is a lightweight and powerful Parser Combinator library for C",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13122868,
+                "language": "C",
+                "last_commit": "2025-08-10T23:14:43Z",
+                "owner": "orangeduck",
+                "repo": "mpc",
+                "stars": 2850
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySql",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645000784,
+                "language": "Odin",
+                "last_commit": "2023-08-29T20:13:24Z",
+                "owner": "laytan",
+                "repo": "odin-mysql",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645000784,
+                "language": "Odin",
+                "last_commit": "2023-08-29T20:13:24Z",
+                "owner": "laytan",
+                "repo": "odin-mysql",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NRI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132297856,
+                "language": "Odin",
+                "last_commit": "2026-07-24T09:28:43Z",
+                "owner": "steinarb1234",
+                "repo": "NRI-odin",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for Nvidia NRI",
+              "description": "a low-level abstract rendering interface designed to support all low-level features of D3D12 and Vulkan GAPIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410967036,
+                "language": "C++",
+                "last_commit": "2026-08-24T10:02:57Z",
+                "owner": "NVIDIA-RTX",
+                "repo": "NRI",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132297856,
+                "language": "Odin",
+                "last_commit": "2026-07-24T09:28:43Z",
+                "owner": "steinarb1234",
+                "repo": "NRI-odin",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nuklear",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769411467,
+                "language": "C",
+                "last_commit": "2026-02-19T01:06:16Z",
+                "owner": "cr1sth0fer",
+                "repo": "odin-nuklear",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for Nuklear",
+              "description": ", s single-header ANSI C immediate mode cross-platform GUI library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224151065,
+                "language": "C",
+                "last_commit": "2026-08-08T02:06:24Z",
+                "owner": "Immediate-Mode-UI",
+                "repo": "Nuklear",
+                "stars": 11340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObjC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191223876,
+                "language": "Odin",
+                "last_commit": "2021-07-31T22:58:25Z",
+                "owner": "Platin21",
+                "repo": "odin-objc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191223876,
+                "language": "Odin",
+                "last_commit": "2021-07-31T22:58:25Z",
+                "owner": "Platin21",
+                "repo": "odin-objc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "odin-renderdoc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814317525,
+                "language": "Odin",
+                "last_commit": "2026-03-22T12:10:03Z",
+                "owner": "2nafish117",
+                "repo": "odin-renderdoc",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for Renderdoc API",
+              "description": ", capture frames and open Renderdoc UI directly from your application",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17253131,
+                "language": "C++",
+                "last_commit": "2026-08-20T11:10:19Z",
+                "owner": "baldurk",
+                "repo": "renderdoc",
+                "stars": 11007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814317525,
+                "language": "Odin",
+                "last_commit": "2026-03-22T12:10:03Z",
+                "owner": "2nafish117",
+                "repo": "odin-renderdoc",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ONNX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 802860804,
+                "language": "Odin",
+                "last_commit": "2024-09-07T07:35:14Z",
+                "owner": "yevhen-k",
+                "repo": "onnx-odin-bindings",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 802860804,
+                "language": "Odin",
+                "last_commit": "2024-09-07T07:35:14Z",
+                "owner": "yevhen-k",
+                "repo": "onnx-odin-bindings",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAL",
+              "description": "Bindings for OpenAL, a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications None Gamedev, Audio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787274387,
+                "language": "Odin",
+                "last_commit": "2024-04-18T06:41:41Z",
+                "owner": "elvodqa",
+                "repo": "odin-al",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PostgreSQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758231490,
+                "language": "Odin",
+                "last_commit": "2025-05-15T20:19:32Z",
+                "owner": "laytan",
+                "repo": "odin-postgresql",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758231490,
+                "language": "Odin",
+                "last_commit": "2025-05-15T20:19:32Z",
+                "owner": "laytan",
+                "repo": "odin-postgresql",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raqm",
+              "description": "Bindings for Raqm BSD 2-clause Text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47186392,
+                "language": "C",
+                "last_commit": "2026-07-23T10:13:31Z",
+                "owner": "HOST-Oman",
+                "repo": "libraqm",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RGFW",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820168208,
+                "language": "C++",
+                "last_commit": "2026-07-30T12:26:29Z",
+                "owner": "Hedgehogsoft",
+                "repo": "RGFW-Odin",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CC0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820168208,
+                "language": "C++",
+                "last_commit": "2026-07-30T12:26:29Z",
+                "owner": "Hedgehogsoft",
+                "repo": "RGFW-Odin",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 858146909,
+                "language": "Odin",
+                "last_commit": "2026-08-09T07:19:11Z",
+                "owner": "enerqi",
+                "repo": "odin-rure",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for Rust Regex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27890669,
+                "language": "Rust",
+                "last_commit": "2026-08-10T16:19:27Z",
+                "owner": "rust-lang",
+                "repo": "regex",
+                "stars": 4013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 858146909,
+                "language": "Odin",
+                "last_commit": "2026-08-09T07:19:11Z",
+                "owner": "enerqi",
+                "repo": "odin-rure",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steamworks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550383423,
+                "language": "Odin",
+                "last_commit": "2026-06-10T10:03:31Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-steamworks",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550383423,
+                "language": "Odin",
+                "last_commit": "2026-06-10T10:03:31Z",
+                "owner": "jakubtomsu",
+                "repo": "odin-steamworks",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLite3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944731884,
+                "language": "Odin",
+                "last_commit": "2026-03-01T01:20:03Z",
+                "owner": "saenai255",
+                "repo": "odin-sqlite3",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944731884,
+                "language": "Odin",
+                "last_commit": "2026-03-01T01:20:03Z",
+                "owner": "saenai255",
+                "repo": "odin-sqlite3",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tinyfiledialogs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 916365539,
+                "language": "C",
+                "last_commit": "2025-01-18T01:03:58Z",
+                "owner": "duffn",
+                "repo": "odin-tinyfiledialogs",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 916365539,
+                "language": "C",
+                "last_commit": "2025-01-18T01:03:58Z",
+                "owner": "duffn",
+                "repo": "odin-tinyfiledialogs",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tracy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273454964,
+                "language": "Odin",
+                "last_commit": "2026-08-22T22:16:01Z",
+                "owner": "oskarnp",
+                "repo": "odin-tracy",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSD-2-Clause",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273454964,
+                "language": "Odin",
+                "last_commit": "2026-08-22T22:16:01Z",
+                "owner": "oskarnp",
+                "repo": "odin-tracy",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ufbx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684953013,
+                "language": "Odin",
+                "last_commit": "2024-08-16T17:05:12Z",
+                "owner": "cshenton",
+                "repo": "odin-ufbx",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for ufbx",
+              "description": ", a simple FBX loader library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190929602,
+                "language": "C",
+                "last_commit": "2026-08-23T23:59:27Z",
+                "owner": "ufbx",
+                "repo": "ufbx",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unlicense",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684953013,
+                "language": "Odin",
+                "last_commit": "2024-08-16T17:05:12Z",
+                "owner": "cshenton",
+                "repo": "odin-ufbx",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ufbx (xandron's updated fork)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843469057,
+                "language": "Odin",
+                "last_commit": "2025-04-19T22:42:06Z",
+                "owner": "xandaron",
+                "repo": "odin-ufbx",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for ufbx",
+              "description": ", a simple FBX loader library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190929602,
+                "language": "C",
+                "last_commit": "2026-08-23T23:59:27Z",
+                "owner": "ufbx",
+                "repo": "ufbx",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unlicense",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843469057,
+                "language": "Odin",
+                "last_commit": "2025-04-19T22:42:06Z",
+                "owner": "xandaron",
+                "repo": "odin-ufbx",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710612671,
+                "language": "Odin",
+                "last_commit": "2026-03-26T17:50:32Z",
+                "owner": "webui-dev",
+                "repo": "odin-webui",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for WebUI",
+              "description": ", use your preferred language in the backend and modern web technologies in the frontend",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310123680,
+                "language": "C",
+                "last_commit": "2026-08-14T21:24:32Z",
+                "owner": "webui-dev",
+                "repo": "webui",
+                "stars": 4579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710612671,
+                "language": "Odin",
+                "last_commit": "2026-03-26T17:50:32Z",
+                "owner": "webui-dev",
+                "repo": "odin-webui",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XInput",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 108600578,
+                "language": "Odin",
+                "last_commit": "2022-10-18T11:45:24Z",
+                "owner": "ThisDevDane",
+                "repo": "odin-xinput",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 108600578,
+                "language": "Odin",
+                "last_commit": "2022-10-18T11:45:24Z",
+                "owner": "ThisDevDane",
+                "repo": "odin-xinput",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yyjson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848441676,
+                "language": "C",
+                "last_commit": "2026-08-08T06:20:10Z",
+                "owner": "enerqi",
+                "repo": "odin-yyjson",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bindings for yyjson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302298095,
+                "language": "C",
+                "last_commit": "2026-08-21T15:03:46Z",
+                "owner": "ibireme",
+                "repo": "yyjson",
+                "stars": 3849
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848441676,
+                "language": "C",
+                "last_commit": "2026-08-08T06:20:10Z",
+                "owner": "enerqi",
+                "repo": "odin-yyjson",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zeromq",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110173083,
+                "language": "Odin",
+                "last_commit": "2021-12-03T20:09:14Z",
+                "owner": "zpl-zak",
+                "repo": "odin-zeromq",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache 2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110173083,
+                "language": "Odin",
+                "last_commit": "2021-12-03T20:09:14Z",
+                "owner": "zpl-zak",
+                "repo": "odin-zeromq",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wsServer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937355442,
+                "language": "Odin",
+                "last_commit": "2025-05-30T19:21:58Z",
+                "owner": "saenai255",
+                "repo": "odin-wsserver",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wsServer",
+              "description": "C WebSocket library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69222555,
+                "language": "C",
+                "last_commit": "2026-07-26T23:36:47Z",
+                "owner": "Theldus",
+                "repo": "wsServer",
+                "stars": 513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937355442,
+                "language": "Odin",
+                "last_commit": "2025-05-30T19:21:58Z",
+                "owner": "saenai255",
+                "repo": "odin-wsserver",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Odin-Slang",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 893791319,
+                "language": "Odin",
+                "last_commit": "2026-01-16T13:26:08Z",
+                "owner": "DragosPopse",
+                "repo": "odin-slang",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bings for Shader-Slang",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93882897,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:08:26Z",
+                "owner": "shader-slang",
+                "repo": "slang",
+                "stars": 5572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93882897,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:08:26Z",
+                "owner": "shader-slang",
+                "repo": "slang",
+                "stars": 5572
+              }
+            }
+          ],
+          "description": "List of Odin bindings to C/C++ libraries.\nIf you can't find the bindings you need, then you can try using this generator: https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).",
+          "node_type": "group",
+          "title": "Bindings"
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": "List of Odin tutorials, articles, videos and other resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "demo.odin",
+          "description": "A demo of basically all odin features Example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74583692,
+            "language": "Odin",
+            "last_commit": "2026-08-24T13:13:35Z",
+            "owner": "odin-lang",
+            "repo": "Odin",
+            "stars": 11783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odin + WASM = 💙",
+          "description": "Example of using Odin, WASM and WebGL together. Example, WASM, Webdev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739421063,
+            "language": "Odin",
+            "last_commit": "2025-01-11T21:59:46Z",
+            "owner": "thetarnav",
+            "repo": "odin-wasm",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raylib + Odin + WASM",
+          "description": "Experiment with using Raylib + Odin on web Gamedev, Raylib, WASM, Example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746276380,
+            "language": "Odin",
+            "last_commit": "2024-04-14T17:47:54Z",
+            "owner": "Caedo",
+            "repo": "raylib_wasm_odin",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sokol WASM Playground",
+          "description": "Example of Sokol and Odin on web using emscripten Gamedev, Sokol, WASM, Example",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 777804026,
+            "language": "C",
+            "last_commit": "2024-10-16T16:20:11Z",
+            "owner": "colinbellino",
+            "repo": "odin-sokol-wasm-playground",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odin OpenCV Demo",
+          "description": "Odin with OpenCV image processing demo OpenCV, Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797773100,
+            "language": "Odin",
+            "last_commit": "2024-05-08T16:25:07Z",
+            "owner": "yevhen-k",
+            "repo": "opencv-odin-demo",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
       "description": "A linter is built into the compiler, see , specifically the and flags.",
       "items": [
         {
@@ -15,7 +3492,7 @@
             "last_commit": "2026-08-23T16:57:11Z",
             "owner": "DanielGavin",
             "repo": "ols",
-            "stars": 1157
+            "stars": 1158
           }
         },
         {
@@ -65,10 +3542,815 @@
         }
       ],
       "title": "Tooling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spall Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 529475536,
+                "language": "Odin",
+                "last_commit": "2026-01-13T19:23:54Z",
+                "owner": "colrdavidson",
+                "repo": "spall-web",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 529475536,
+                "language": "Odin",
+                "last_commit": "2026-01-13T19:23:54Z",
+                "owner": "colrdavidson",
+                "repo": "spall-web",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Todool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517186010,
+                "language": "Odin",
+                "last_commit": "2026-04-04T14:24:25Z",
+                "owner": "Skytrias",
+                "repo": "todool",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517186010,
+                "language": "Odin",
+                "last_commit": "2026-04-04T14:24:25Z",
+                "owner": "Skytrias",
+                "repo": "todool",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTMX Example TODO List App",
+              "description": "An implementation of Todo MVC using my in development Odin web stack. None Webdev, Tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689460452,
+                "language": "Odin",
+                "last_commit": "2023-12-06T21:04:55Z",
+                "owner": "laytan",
+                "repo": "todomvc-odin-htmx",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dungeon of Quake",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 453199199,
+                "language": "Odin",
+                "last_commit": "2023-12-11T09:46:39Z",
+                "owner": "jakubtomsu",
+                "repo": "dungeon-of-quake",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT or Public Domain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 453199199,
+                "language": "Odin",
+                "last_commit": "2023-12-11T09:46:39Z",
+                "owner": "jakubtomsu",
+                "repo": "dungeon-of-quake",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LD55 - The Last Summoner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786161706,
+                "language": "Odin",
+                "last_commit": "2024-04-14T22:24:29Z",
+                "owner": "atomicptr",
+                "repo": "ld55",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786161706,
+                "language": "Odin",
+                "last_commit": "2024-04-14T22:24:29Z",
+                "owner": "atomicptr",
+                "repo": "ld55",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Asterboids",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784334624,
+                "language": "Odin",
+                "last_commit": "2024-06-04T19:45:56Z",
+                "owner": "keenanwoodall",
+                "repo": "asterboids",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784334624,
+                "language": "Odin",
+                "last_commit": "2024-06-04T19:45:56Z",
+                "owner": "keenanwoodall",
+                "repo": "asterboids",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solitare",
+              "description": "Solitare clone using Odin and Raylib None Gamedev, 2D, Raylib, Clone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813417880,
+                "language": "Odin",
+                "last_commit": "2026-06-11T23:14:57Z",
+                "owner": "A1029384756",
+                "repo": "odin-solitaire",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tetris",
+              "description": "Simple tetris clone None Gamedev, 2D, Raylib, Clone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 827666949,
+                "language": "Odin",
+                "last_commit": "2024-07-19T22:01:19Z",
+                "owner": "ThadeuFerreira",
+                "repo": "tetris",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "My Pong",
+              "description": "Pong clone in Odin and Raylib None Gamedev, 2D, Raylib, Clone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828360225,
+                "language": "Odin",
+                "last_commit": "2024-07-13T23:19:39Z",
+                "owner": "matthewelmer",
+                "repo": "my_pong",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Neural Network",
+              "description": "A little experiment with machine learning based on 3Blue1Brown's series on basic deep learning None ML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 829124978,
+                "language": "Odin",
+                "last_commit": "2024-07-27T21:26:04Z",
+                "owner": "Alkamist",
+                "repo": "odin_simple_neural_network",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lasers",
+              "description": "A small 2d laser simulation with SDL2 to learn Odin None Gamedev, 2D, SDL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810950502,
+                "language": "Odin",
+                "last_commit": "2024-11-01T04:50:32Z",
+                "owner": "renpenguin",
+                "repo": "Lasers",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "H264 Decoding",
+              "description": "A minimal reference version of H264 video decoding with D3D11 and Windows Media Foundation API None Example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811126803,
+                "language": "Odin",
+                "last_commit": "2024-06-06T02:20:24Z",
+                "owner": "markersniffen",
+                "repo": "odin-d3d11-h264-decode",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spurtle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797480349,
+                "language": "Odin",
+                "last_commit": "2024-06-01T18:51:59Z",
+                "owner": "aribish",
+                "repo": "spurtle",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797480349,
+                "language": "Odin",
+                "last_commit": "2024-06-01T18:51:59Z",
+                "owner": "aribish",
+                "repo": "spurtle",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atlas Builder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851187025,
+                "language": "Odin",
+                "last_commit": "2026-08-17T10:11:28Z",
+                "owner": "karl-zylinski",
+                "repo": "atlas-builder",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851187025,
+                "language": "Odin",
+                "last_commit": "2026-08-17T10:11:28Z",
+                "owner": "karl-zylinski",
+                "repo": "atlas-builder",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lucynes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793360280,
+                "language": "Odin",
+                "last_commit": "2026-05-14T21:34:28Z",
+                "owner": "lucypero",
+                "repo": "lucynes",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793360280,
+                "language": "Odin",
+                "last_commit": "2026-05-14T21:34:28Z",
+                "owner": "lucypero",
+                "repo": "lucynes",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bragi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 842249049,
+                "language": "Odin",
+                "last_commit": "2024-12-20T16:23:17Z",
+                "owner": "xandaron",
+                "repo": "Bragi",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 842249049,
+                "language": "Odin",
+                "last_commit": "2024-12-20T16:23:17Z",
+                "owner": "xandaron",
+                "repo": "Bragi",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mouniverse",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193867331,
+                "language": "Odin",
+                "last_commit": "2026-07-30T14:57:18Z",
+                "owner": "helioscout",
+                "repo": "mouniverse",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193867331,
+                "language": "Odin",
+                "last_commit": "2026-07-30T14:57:18Z",
+                "owner": "helioscout",
+                "repo": "mouniverse",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Open-source software implemented in Odin.",
+          "node_type": "group",
+          "title": "Open-source Projects"
+        }
+      ],
+      "title": "Built with Odin"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OLS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309684963,
+            "language": "Odin",
+            "last_commit": "2026-08-23T16:57:11Z",
+            "owner": "DanielGavin",
+            "repo": "ols",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309684963,
+            "language": "Odin",
+            "last_commit": "2026-08-23T16:57:11Z",
+            "owner": "DanielGavin",
+            "repo": "ols",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JetBrains IDEs",
+          "description": "Odin support with static code analysis for IntelliJ and others MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677877186,
+            "language": "Java",
+            "last_commit": "2026-07-25T18:51:29Z",
+            "owner": "obiwan87",
+            "repo": "odin-intellij",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83078101,
+            "language": null,
+            "last_commit": "2025-04-21T11:56:31Z",
+            "owner": "odin-lang",
+            "repo": "sublime-odin",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83078101,
+            "language": null,
+            "last_commit": "2025-04-21T11:56:31Z",
+            "owner": "odin-lang",
+            "repo": "sublime-odin",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNU/Emacs",
+          "description": "Odin editing mode for GNU/Emacs None",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161459073,
+            "language": "Odin",
+            "last_commit": "2026-02-19T14:59:38Z",
+            "owner": "mattt-b",
+            "repo": "odin-mode",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flycheck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164391564,
+            "language": "Emacs Lisp",
+            "last_commit": "2021-02-18T22:10:58Z",
+            "owner": "mattt-b",
+            "repo": "flycheck-odin",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unlicense",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164391564,
+            "language": "Emacs Lisp",
+            "last_commit": "2021-02-18T22:10:58Z",
+            "owner": "mattt-b",
+            "repo": "flycheck-odin",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82132935,
+            "language": "Vim Script",
+            "last_commit": "2026-06-18T22:24:20Z",
+            "owner": "Tetralux",
+            "repo": "odin.vim",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82132935,
+            "language": "Vim Script",
+            "last_commit": "2026-06-18T22:24:20Z",
+            "owner": "Tetralux",
+            "repo": "odin.vim",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree Sitter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611162693,
+            "language": "JavaScript",
+            "last_commit": "2025-05-24T06:57:41Z",
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-odin",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445813888,
+            "language": "C",
+            "last_commit": "2023-05-16T21:06:01Z",
+            "owner": "ap29600",
+            "repo": "tree-sitter-odin",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Editor Support"
+    },
+    {
+      "description": "A list of outdated/deprecated/archived libraries, included for the sake of completeness and in case someone wants to update it.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Breush/odin-binding-generator",
+          "description": "Lost interest",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152028891,
+            "language": "Odin",
+            "last_commit": "2022-12-06T15:44:20Z",
+            "owner": "Breush",
+            "repo": "odin-binding-generator",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/zhibog/odin-unittest",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 236053810,
+            "language": "Odin",
+            "last_commit": "2021-03-14T18:23:37Z",
+            "owner": "zhibog",
+            "repo": "odin-unittest",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/dotbmp/odin-json",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103181874,
+            "language": null,
+            "last_commit": "2020-07-09T17:16:57Z",
+            "owner": "dotbmp",
+            "repo": "odin-json",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vassvik/odin-gl",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96423333,
+            "language": "Odin",
+            "last_commit": "2022-05-09T05:58:12Z",
+            "owner": "vassvik",
+            "repo": "odin-gl",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/JoshuaManton/odin-sdl2",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98040461,
+            "language": "Odin",
+            "last_commit": "2021-05-12T23:36:31Z",
+            "owner": "JoshuaManton",
+            "repo": "odin-sdl2",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kevinw/raylib-odin",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 176742151,
+            "language": "C",
+            "last_commit": "2021-09-06T05:40:23Z",
+            "owner": "kevinw",
+            "repo": "raylib-odin",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/librg/odin-enet",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104560833,
+            "language": null,
+            "last_commit": "2018-02-28T16:57:31Z",
+            "owner": "librg",
+            "repo": "odin-enet",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vassvik/odin-stb",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110168882,
+            "language": "C",
+            "last_commit": "2023-12-14T17:12:58Z",
+            "owner": "vassvik",
+            "repo": "odin-stb",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sumofat/odin_cgltf",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338253451,
+            "language": "Odin",
+            "last_commit": "2023-03-17T23:39:35Z",
+            "owner": "sumofat",
+            "repo": "odin_cgltf",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/atkurtul/odinvk",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 349192498,
+            "language": "C++",
+            "last_commit": "2021-05-12T15:36:12Z",
+            "owner": "atkurtul",
+            "repo": "odinvk",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SrMordred/odin-lua",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226620391,
+            "language": "Odin",
+            "last_commit": "2022-11-02T12:11:53Z",
+            "owner": "SrMordred",
+            "repo": "odin-lua",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mp768/odin-lua-bindings",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 431990028,
+            "language": "C",
+            "last_commit": "2021-11-30T02:33:39Z",
+            "owner": "mp768",
+            "repo": "odin-lua-bindings",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/laytan/odin-pattern",
+          "description": "check out",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645031993,
+            "language": "Odin",
+            "last_commit": "2023-06-26T17:36:41Z",
+            "owner": "laytan",
+            "repo": "odin-pattern",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Deprecated"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:00:16.356Z",
+    "last_updated": "2026-08-24T14:17:12.894Z",
     "original_repository": "jakubtomsu/awesome-odin",
     "original_repository_id": 775074564,
     "original_repository_sha": "e0e7cb67eeea39bfc9063d1de9f6e6f33b7e2925",
