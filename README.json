@@ -12,7 +12,7 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-24T18:10:39Z",
+            "last_commit": "2026-08-25T02:02:24Z",
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 11784
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-24T18:10:39Z",
+            "last_commit": "2026-08-25T02:02:24Z",
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 11784
@@ -82,7 +82,7 @@
                     "archived": false,
                     "id": 1038595872,
                     "language": "Odin",
-                    "last_commit": "2026-08-24T16:44:00Z",
+                    "last_commit": "2026-08-24T21:29:32Z",
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
                     "stars": 646
@@ -97,7 +97,7 @@
                     "archived": false,
                     "id": 1038595872,
                     "language": "Odin",
-                    "last_commit": "2026-08-24T16:44:00Z",
+                    "last_commit": "2026-08-24T21:29:32Z",
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
                     "stars": 646
@@ -1402,7 +1402,7 @@
                     "last_commit": "2023-06-05T11:45:31Z",
                     "owner": "DragosPopse",
                     "repo": "mani",
-                    "stars": 41
+                    "stars": 42
                   }
                 },
                 {
@@ -1783,7 +1783,7 @@
                     "last_commit": "2024-08-13T19:01:59Z",
                     "owner": "rxi",
                     "repo": "microui",
-                    "stars": 6809
+                    "stars": 6810
                   }
                 },
                 {
@@ -1798,7 +1798,7 @@
                     "last_commit": "2026-08-02T06:42:09Z",
                     "owner": "nothings",
                     "repo": "stb",
-                    "stars": 34493
+                    "stars": 34497
                   }
                 }
               ],
@@ -1840,7 +1840,7 @@
                 "last_commit": "2026-08-24T14:23:57Z",
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10235
+                "stars": 10237
               }
             },
             {
@@ -1855,7 +1855,7 @@
                 "last_commit": "2026-08-24T14:23:57Z",
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10235
+                "stars": 10237
               }
             },
             {
@@ -1927,10 +1927,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-24T18:10:04Z",
+                "last_commit": "2026-08-25T05:57:58Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17429
+                "stars": 17431
               }
             },
             {
@@ -1945,7 +1945,7 @@
                 "last_commit": "2026-05-20T02:17:59Z",
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 17985
+                "stars": 17990
               }
             },
             {
@@ -1960,7 +1960,7 @@
                 "last_commit": "2026-05-20T02:17:59Z",
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 17985
+                "stars": 17990
               }
             },
             {
@@ -2182,10 +2182,10 @@
                 "archived": false,
                 "id": 5050525,
                 "language": "C++",
-                "last_commit": "2026-08-24T10:13:48Z",
+                "last_commit": "2026-08-25T01:00:35Z",
                 "owner": "harfbuzz",
                 "repo": "harfbuzz",
-                "stars": 6036
+                "stars": 6038
               }
             },
             {
@@ -2200,7 +2200,7 @@
                 "last_commit": "2026-08-24T15:59:40Z",
                 "owner": "unicode-org",
                 "repo": "icu",
-                "stars": 3584
+                "stars": 3586
               }
             },
             {
@@ -2227,10 +2227,10 @@
                 "archived": false,
                 "id": 35780977,
                 "language": "C",
-                "last_commit": "2026-08-24T15:42:48Z",
+                "last_commit": "2026-08-25T03:23:35Z",
                 "owner": "ImageMagick",
                 "repo": "ImageMagick",
-                "stars": 17215
+                "stars": 17222
               }
             },
             {
@@ -2260,7 +2260,7 @@
                 "last_commit": "2026-08-24T05:19:24Z",
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11421
+                "stars": 11424
               }
             },
             {
@@ -2455,7 +2455,7 @@
                 "last_commit": "2026-07-01T06:42:40Z",
                 "owner": "lz4",
                 "repo": "lz4",
-                "stars": 12026
+                "stars": 12027
               }
             },
             {
@@ -2515,7 +2515,7 @@
                 "last_commit": "2026-08-21T12:56:03Z",
                 "owner": "zeux",
                 "repo": "meshoptimizer",
-                "stars": 8260
+                "stars": 8261
               }
             },
             {
@@ -2545,7 +2545,7 @@
                 "last_commit": "2026-08-22T10:49:34Z",
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13326
+                "stars": 13328
               }
             },
             {
@@ -2590,7 +2590,7 @@
                 "last_commit": "2025-08-10T23:14:43Z",
                 "owner": "orangeduck",
                 "repo": "mpc",
-                "stars": 2850
+                "stars": 2851
               }
             },
             {
@@ -2695,7 +2695,7 @@
                 "last_commit": "2026-08-08T02:06:24Z",
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11340
+                "stars": 11342
               }
             },
             {
@@ -2752,10 +2752,10 @@
                 "archived": false,
                 "id": 17253131,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:49:38Z",
+                "last_commit": "2026-08-24T20:52:44Z",
                 "owner": "baldurk",
                 "repo": "renderdoc",
-                "stars": 11007
+                "stars": 11011
               }
             },
             {
@@ -3175,7 +3175,7 @@
                 "last_commit": "2026-08-14T21:24:32Z",
                 "owner": "webui-dev",
                 "repo": "webui",
-                "stars": 4579
+                "stars": 4581
               }
             },
             {
@@ -3250,7 +3250,7 @@
                 "last_commit": "2026-08-24T17:06:13Z",
                 "owner": "ibireme",
                 "repo": "yyjson",
-                "stars": 3849
+                "stars": 3848
               }
             },
             {
@@ -3367,10 +3367,10 @@
                 "archived": false,
                 "id": 93882897,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:28:00Z",
+                "last_commit": "2026-08-25T05:54:36Z",
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5573
+                "stars": 5577
               }
             },
             {
@@ -3382,10 +3382,10 @@
                 "archived": false,
                 "id": 93882897,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:28:00Z",
+                "last_commit": "2026-08-25T05:54:36Z",
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5573
+                "stars": 5577
               }
             }
           ],
@@ -3408,7 +3408,7 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-24T18:10:39Z",
+            "last_commit": "2026-08-25T02:02:24Z",
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 11784
@@ -3492,7 +3492,7 @@
             "last_commit": "2026-08-23T16:57:11Z",
             "owner": "DanielGavin",
             "repo": "ols",
-            "stars": 1158
+            "stars": 1160
           }
         },
         {
@@ -3976,7 +3976,7 @@
             "last_commit": "2026-08-23T16:57:11Z",
             "owner": "DanielGavin",
             "repo": "ols",
-            "stars": 1158
+            "stars": 1160
           }
         },
         {
@@ -3991,7 +3991,7 @@
             "last_commit": "2026-08-23T16:57:11Z",
             "owner": "DanielGavin",
             "repo": "ols",
-            "stars": 1158
+            "stars": 1160
           }
         },
         {
@@ -4152,7 +4152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Breush/odin-binding-generator",
+          "title": "Breush/odin-binding-generator",
           "description": "Lost interest",
           "children": [],
           "repo_info": {
@@ -4167,7 +4167,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zhibog/odin-unittest",
+          "title": "zhibog/odin-unittest",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4182,7 +4182,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dotbmp/odin-json",
+          "title": "dotbmp/odin-json",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4197,7 +4197,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vassvik/odin-gl",
+          "title": "vassvik/odin-gl",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4212,7 +4212,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/JoshuaManton/odin-sdl2",
+          "title": "JoshuaManton/odin-sdl2",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4227,7 +4227,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kevinw/raylib-odin",
+          "title": "kevinw/raylib-odin",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4242,7 +4242,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/librg/odin-enet",
+          "title": "librg/odin-enet",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4257,7 +4257,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vassvik/odin-stb",
+          "title": "vassvik/odin-stb",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4272,7 +4272,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sumofat/odin_cgltf",
+          "title": "sumofat/odin_cgltf",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4287,7 +4287,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/atkurtul/odinvk",
+          "title": "atkurtul/odinvk",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4302,7 +4302,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SrMordred/odin-lua",
+          "title": "SrMordred/odin-lua",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4317,7 +4317,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mp768/odin-lua-bindings",
+          "title": "mp768/odin-lua-bindings",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4332,7 +4332,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/laytan/odin-pattern",
+          "title": "laytan/odin-pattern",
           "description": "check out",
           "children": [],
           "repo_info": {
@@ -4350,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:16:00.482Z",
+    "last_updated": "2026-08-25T06:07:30.460Z",
     "original_repository": "jakubtomsu/awesome-odin",
     "original_repository_id": 775074564,
     "original_repository_sha": "e0e7cb67eeea39bfc9063d1de9f6e6f33b7e2925",
