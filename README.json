@@ -12,11 +12,12 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-28T01:13:25Z",
+            "last_commit": "2026-08-28T23:49:58Z",
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11795
-          }
+            "stars": 11802
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-28T01:13:25Z",
+            "last_commit": "2026-08-28T23:49:58Z",
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11795
-          }
+            "stars": 11802
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         }
       ],
       "title": "Other Lists"
@@ -55,8 +57,9 @@
                     "last_commit": "2026-08-23T01:47:37Z",
                     "owner": "jakubtomsu",
                     "repo": "ravn",
-                    "stars": 87
-                  }
+                    "stars": 88
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -70,8 +73,9 @@
                     "last_commit": "2026-08-23T01:47:37Z",
                     "owner": "jakubtomsu",
                     "repo": "ravn",
-                    "stars": 87
-                  }
+                    "stars": 88
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -82,11 +86,12 @@
                     "archived": false,
                     "id": 1038595872,
                     "language": "Odin",
-                    "last_commit": "2026-08-27T23:10:16Z",
+                    "last_commit": "2026-08-29T00:46:25Z",
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
-                    "stars": 651
-                  }
+                    "stars": 653
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -97,11 +102,12 @@
                     "archived": false,
                     "id": 1038595872,
                     "language": "Odin",
-                    "last_commit": "2026-08-27T23:10:16Z",
+                    "last_commit": "2026-08-29T00:46:25Z",
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
-                    "stars": 651
-                  }
+                    "stars": 653
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +122,8 @@
                     "owner": "asbott",
                     "repo": "jamgine",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +138,8 @@
                     "owner": "asbott",
                     "repo": "jamgine",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +154,8 @@
                     "owner": "jakubtomsu",
                     "repo": "odin-lbp-serialization",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +170,8 @@
                     "owner": "jakubtomsu",
                     "repo": "odin-lbp-serialization",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -175,8 +185,9 @@
                     "last_commit": "2026-07-24T00:58:02Z",
                     "owner": "jakubtomsu",
                     "repo": "jobs",
-                    "stars": 132
-                  }
+                    "stars": 133
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -190,8 +201,9 @@
                     "last_commit": "2026-07-24T00:58:02Z",
                     "owner": "jakubtomsu",
                     "repo": "jobs",
-                    "stars": 132
-                  }
+                    "stars": 133
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -205,8 +217,9 @@
                     "last_commit": "2025-12-01T23:18:43Z",
                     "owner": "dresswithpockets",
                     "repo": "odin-godot",
-                    "stars": 158
-                  }
+                    "stars": 159
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -220,8 +233,9 @@
                     "last_commit": "2025-12-01T23:18:43Z",
                     "owner": "dresswithpockets",
                     "repo": "odin-godot",
-                    "stars": 158
-                  }
+                    "stars": 159
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -236,7 +250,8 @@
                     "owner": "Pawel82S",
                     "repo": "glTF2",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -251,7 +266,8 @@
                     "owner": "Pawel82S",
                     "repo": "glTF2",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -265,8 +281,9 @@
                     "last_commit": "2026-07-15T04:47:37Z",
                     "owner": "blob1807",
                     "repo": "odin-aseprite",
-                    "stars": 65
-                  }
+                    "stars": 66
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -280,8 +297,9 @@
                     "last_commit": "2026-07-15T04:47:37Z",
                     "owner": "blob1807",
                     "repo": "odin-aseprite",
-                    "stars": 65
-                  }
+                    "stars": 66
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -296,7 +314,8 @@
                     "owner": "karl-zylinski",
                     "repo": "odin-raylib-hot-reload-game-template",
                     "stars": 612
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -311,7 +330,8 @@
                     "owner": "karl-zylinski",
                     "repo": "odin-raylib-hot-reload-game-template",
                     "stars": 612
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -326,7 +346,8 @@
                     "owner": "karl-zylinski",
                     "repo": "odin-sokol-web",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -341,7 +362,8 @@
                     "owner": "karl-zylinski",
                     "repo": "odin-sokol-web",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -356,7 +378,8 @@
                     "owner": "atomicptr",
                     "repo": "anima",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -371,7 +394,8 @@
                     "owner": "kikito",
                     "repo": "anim8",
                     "stars": 988
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -386,7 +410,8 @@
                     "owner": "atomicptr",
                     "repo": "anima",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -401,7 +426,8 @@
                     "owner": "Z7-Z7L",
                     "repo": "ZTME",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -416,7 +442,8 @@
                     "owner": "Z7-Z7L",
                     "repo": "ZTME",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -431,7 +458,8 @@
                     "owner": "scoobery",
                     "repo": "odin_pathgrid",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -446,7 +474,8 @@
                     "owner": "scoobery",
                     "repo": "odin_pathgrid",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -461,7 +490,8 @@
                     "owner": "Ed94",
                     "repo": "VEFontCache-Odin",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -476,7 +506,8 @@
                     "owner": "hypernewbie",
                     "repo": "VEFontCache",
                     "stars": 382
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -491,7 +522,8 @@
                     "owner": "Ed94",
                     "repo": "VEFontCache-Odin",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -506,7 +538,8 @@
                     "owner": "JerMakesStuff",
                     "repo": "Dusk",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -521,7 +554,8 @@
                     "owner": "JerMakesStuff",
                     "repo": "Dusk",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -535,8 +569,9 @@
                     "last_commit": "2026-07-16T00:10:16Z",
                     "owner": "wrapperup",
                     "repo": "odin-mikktspace",
-                    "stars": 16
-                  }
+                    "stars": 17
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -550,8 +585,9 @@
                     "last_commit": "2026-07-16T00:10:16Z",
                     "owner": "wrapperup",
                     "repo": "odin-mikktspace",
-                    "stars": 16
-                  }
+                    "stars": 17
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -566,7 +602,8 @@
                     "owner": "xandaron",
                     "repo": "Valhalla",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -581,7 +618,8 @@
                     "owner": "xandaron",
                     "repo": "Valhalla",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -596,7 +634,8 @@
                     "owner": "ariaghora",
                     "repo": "anvil",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -611,7 +650,8 @@
                     "owner": "ariaghora",
                     "repo": "anvil",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -626,7 +666,8 @@
                     "owner": "GuilHartt",
                     "repo": "muninn",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -641,7 +682,8 @@
                     "owner": "GuilHartt",
                     "repo": "muninn",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -656,7 +698,8 @@
                     "owner": "NateTheGreatt",
                     "repo": "odecs",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -671,7 +714,8 @@
                     "owner": "NateTheGreatt",
                     "repo": "odecs",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -686,7 +730,8 @@
                     "owner": "helioscout",
                     "repo": "moecs",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -701,7 +746,8 @@
                     "owner": "helioscout",
                     "repo": "moecs",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -716,7 +762,8 @@
                     "owner": "herohiralal",
                     "repo": "com.herohiralal.odininterop",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -731,7 +778,8 @@
                     "owner": "herohiralal",
                     "repo": "com.herohiralal.odininterop",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -746,7 +794,8 @@
                     "owner": "DragosPopse",
                     "repo": "marshmallow",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -767,8 +816,9 @@
                     "last_commit": "2023-12-14T07:52:28Z",
                     "owner": "jakubtomsu",
                     "repo": "odin-vox",
-                    "stars": 12
-                  }
+                    "stars": 13
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -782,8 +832,9 @@
                     "last_commit": "2023-12-14T07:52:28Z",
                     "owner": "jakubtomsu",
                     "repo": "odin-vox",
-                    "stars": 12
-                  }
+                    "stars": 13
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -798,7 +849,8 @@
                     "owner": "jakubtomsu",
                     "repo": "odin-ldtk",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -813,7 +865,8 @@
                     "owner": "jakubtomsu",
                     "repo": "odin-ldtk",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -828,7 +881,8 @@
                     "owner": "SabeDoesThings",
                     "repo": "odin-tiled",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -843,7 +897,8 @@
                     "owner": "SabeDoesThings",
                     "repo": "odin-tiled",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -858,7 +913,8 @@
                     "owner": "Kelimion",
                     "repo": "odin-file-formats",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -873,7 +929,8 @@
                     "owner": "Kelimion",
                     "repo": "odin-file-formats",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -887,8 +944,9 @@
                     "last_commit": "2024-02-12T19:37:03Z",
                     "owner": "laytan",
                     "repo": "odin-ini-parser",
-                    "stars": 25
-                  }
+                    "stars": 26
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -902,8 +960,9 @@
                     "last_commit": "2024-02-12T19:37:03Z",
                     "owner": "laytan",
                     "repo": "odin-ini-parser",
-                    "stars": 25
-                  }
+                    "stars": 26
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -918,7 +977,8 @@
                     "owner": "DaseinPhaos",
                     "repo": "pdb",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -933,7 +993,8 @@
                     "owner": "DaseinPhaos",
                     "repo": "pdb",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -948,7 +1009,8 @@
                     "owner": "FourteenBrush",
                     "repo": "Classreader",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -963,7 +1025,8 @@
                     "owner": "FourteenBrush",
                     "repo": "Classreader",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -978,7 +1041,8 @@
                     "owner": "Up05",
                     "repo": "date-parser",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -993,7 +1057,8 @@
                     "owner": "Up05",
                     "repo": "toml_parser",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1008,7 +1073,8 @@
                     "owner": "Up05",
                     "repo": "toml_parser",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1023,7 +1089,8 @@
                     "owner": "mabeh19",
                     "repo": "bml",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1044,8 +1111,9 @@
                     "last_commit": "2026-08-26T18:21:12Z",
                     "owner": "laytan",
                     "repo": "odin-http",
-                    "stars": 437
-                  }
+                    "stars": 438
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1059,8 +1127,9 @@
                     "last_commit": "2026-08-26T18:21:12Z",
                     "owner": "laytan",
                     "repo": "odin-http",
-                    "stars": 437
-                  }
+                    "stars": 438
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1082,7 +1151,8 @@
                     "owner": "Lvcky-gg",
                     "repo": "Gjallarhorn",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1097,7 +1167,8 @@
                     "owner": "Lvcky-gg",
                     "repo": "Gjallarhorn",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1112,7 +1183,8 @@
                     "owner": "thetarnav",
                     "repo": "odin-graphql-parser",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1127,7 +1199,8 @@
                     "owner": "thetarnav",
                     "repo": "odin-graphql-parser",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1142,7 +1215,8 @@
                     "owner": "Archetype-Dynamics",
                     "repo": "Open-OstrichDB",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1157,7 +1231,8 @@
                     "owner": "Archetype-Dynamics",
                     "repo": "Open-OstrichDB",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1172,7 +1247,8 @@
                     "owner": "Archetype-Dynamics",
                     "repo": "OstrichDB-CLI",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1187,7 +1263,8 @@
                     "owner": "Archetype-Dynamics",
                     "repo": "OstrichDB-CLI",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1209,7 +1286,8 @@
                     "owner": "benjamindblock",
                     "repo": "odin-mustache",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1224,7 +1302,8 @@
                     "owner": "benjamindblock",
                     "repo": "odin-mustache",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1239,7 +1318,8 @@
                     "owner": "laytan",
                     "repo": "temple",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1254,7 +1334,8 @@
                     "owner": "laytan",
                     "repo": "temple",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1269,7 +1350,8 @@
                     "owner": "nviam",
                     "repo": "odin-templateless",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1284,7 +1366,8 @@
                     "owner": "nviam",
                     "repo": "odin-templateless",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1306,7 +1389,8 @@
                     "owner": "wilig",
                     "repo": "red_black_tree",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1321,7 +1405,8 @@
                     "owner": "xDahl",
                     "repo": "Piece-Table",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1336,7 +1421,8 @@
                     "owner": "xDahl",
                     "repo": "Piece-Table",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1351,7 +1437,8 @@
                     "owner": "0xULT",
                     "repo": "shm_queue",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1373,7 +1460,8 @@
                     "owner": "Platin21",
                     "repo": "ads1256-odin",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1388,7 +1476,8 @@
                     "owner": "Platin21",
                     "repo": "ads1256-odin",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1403,7 +1492,8 @@
                     "owner": "DragosPopse",
                     "repo": "mani",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1418,7 +1508,8 @@
                     "owner": "DragosPopse",
                     "repo": "odin-build",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1433,7 +1524,8 @@
                     "owner": "laytan",
                     "repo": "odin-snowflake",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1448,7 +1540,8 @@
                     "owner": "laytan",
                     "repo": "odin-snowflake",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1463,7 +1556,8 @@
                     "owner": "wiremoons",
                     "repo": "app_version",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1478,7 +1572,8 @@
                     "owner": "wiremoons",
                     "repo": "app_version",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1493,7 +1588,8 @@
                     "owner": "GoNZooo",
                     "repo": "odin-cli",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1508,7 +1604,8 @@
                     "owner": "SjVer",
                     "repo": "ClOdin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1523,7 +1620,8 @@
                     "owner": "SjVer",
                     "repo": "ClOdin",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1537,8 +1635,9 @@
                     "last_commit": "2025-12-02T21:44:31Z",
                     "owner": "hrszpuk",
                     "repo": "odin-color",
-                    "stars": 19
-                  }
+                    "stars": 20
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1552,8 +1651,9 @@
                     "last_commit": "2025-12-02T21:44:31Z",
                     "owner": "hrszpuk",
                     "repo": "odin-color",
-                    "stars": 19
-                  }
+                    "stars": 20
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1568,7 +1668,8 @@
                     "owner": "RaphGL",
                     "repo": "TermCL",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1583,7 +1684,8 @@
                     "owner": "RaphGL",
                     "repo": "TermCL",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1598,7 +1700,8 @@
                     "owner": "laytan",
                     "repo": "back",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1613,7 +1716,8 @@
                     "owner": "laytan",
                     "repo": "back",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1628,7 +1732,8 @@
                     "owner": "dlroy88osu",
                     "repo": "Muninn",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1643,7 +1748,8 @@
                     "owner": "dlroy88osu",
                     "repo": "Muninn",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": null,
@@ -1665,7 +1771,8 @@
                     "owner": "gingerBill",
                     "repo": "blaise",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1680,7 +1787,8 @@
                     "owner": "gingerBill",
                     "repo": "blaise",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1695,7 +1803,8 @@
                     "owner": "jakubtomsu",
                     "repo": "vecc",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1710,7 +1819,8 @@
                     "owner": "jakubtomsu",
                     "repo": "vecc",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1725,7 +1835,8 @@
                     "owner": "Samudevv",
                     "repo": "runic",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1740,7 +1851,8 @@
                     "owner": "Samudevv",
                     "repo": "runic",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": "Compilers, transpilers, binding generators, and other language-related tools.",
@@ -1769,7 +1881,8 @@
                     "owner": "memononen",
                     "repo": "fontstash",
                     "stars": 783
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1783,8 +1896,9 @@
                     "last_commit": "2024-08-13T19:01:59Z",
                     "owner": "rxi",
                     "repo": "microui",
-                    "stars": 6810
-                  }
+                    "stars": 6814
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 },
                 {
                   "node_type": "item",
@@ -1798,8 +1912,9 @@
                     "last_commit": "2026-08-02T06:42:09Z",
                     "owner": "nothings",
                     "repo": "stb",
-                    "stars": 34518
-                  }
+                    "stars": 34526
+                  },
+                  "first_seen": "2026-08-29T01:11:14.813Z"
                 }
               ],
               "description": "Vendor packages are commonly-used third-party libraries distributed along with the compiler",
@@ -1822,11 +1937,12 @@
                 "archived": false,
                 "id": 507981188,
                 "language": "C",
-                "last_commit": "2026-08-26T17:19:46Z",
+                "last_commit": "2026-08-28T16:45:45Z",
                 "owner": "floooh",
                 "repo": "sokol-odin",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1837,11 +1953,12 @@
                 "archived": false,
                 "id": 97212490,
                 "language": "C",
-                "last_commit": "2026-08-27T17:29:53Z",
+                "last_commit": "2026-08-28T16:33:59Z",
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10243
-              }
+                "stars": 10245
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1852,11 +1969,12 @@
                 "archived": false,
                 "id": 97212490,
                 "language": "C",
-                "last_commit": "2026-08-27T17:29:53Z",
+                "last_commit": "2026-08-28T16:33:59Z",
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10243
-              }
+                "stars": 10245
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1871,7 +1989,8 @@
                 "owner": "CoolDove",
                 "repo": "odin-assimp",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +2005,8 @@
                 "owner": "CoolDove",
                 "repo": "odin-assimp",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1901,7 +2021,8 @@
                 "owner": "Platin21",
                 "repo": "odin-bcm2835",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1916,22 +2037,8 @@
                 "owner": "Platin21",
                 "repo": "odin-bcm2835",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Bindings for bgfx",
-              "description": ", a cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 3925242,
-                "language": "C++",
-                "last_commit": "2026-08-27T19:27:49Z",
-                "owner": "bkaradzic",
-                "repo": "bgfx",
-                "stars": 17436
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1945,8 +2052,9 @@
                 "last_commit": "2026-05-20T02:17:59Z",
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18006
-              }
+                "stars": 18014
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1960,23 +2068,9 @@
                 "last_commit": "2026-05-20T02:17:59Z",
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18006
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Box2C (Odin-style)",
-              "description": "Box2D 3.0 bindings for Odin language None Gamedev, Physics",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 766211586,
-                "language": "Odin",
-                "last_commit": "2024-08-19T20:01:07Z",
-                "owner": "cr1sth0fer",
-                "repo": "odin-box2d",
-                "stars": 21
-              }
+                "stars": 18014
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -1991,7 +2085,8 @@
                 "owner": "Anaxarchus",
                 "repo": "odin_clipper2",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2005,8 +2100,9 @@
                 "last_commit": "2026-04-20T01:18:06Z",
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2463
-              }
+                "stars": 2464
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2021,7 +2117,8 @@
                 "owner": "Kelimion",
                 "repo": "odin-cue-sdk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2036,7 +2133,8 @@
                 "owner": "CorsairOfficial",
                 "repo": "cue-sdk",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2051,7 +2149,8 @@
                 "owner": "Kelimion",
                 "repo": "odin-cue-sdk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2066,7 +2165,8 @@
                 "owner": "dch-GH",
                 "repo": "efsw-odin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2081,7 +2181,8 @@
                 "owner": "diegostamigni",
                 "repo": "efsw",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2197,8 @@
                 "owner": "dch-GH",
                 "repo": "efsw-odin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2213,8 @@
                 "owner": "numbers-zz",
                 "repo": "odin-ffmpeg-bindings",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2229,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-fmod",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2141,7 +2245,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-fmod",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2156,7 +2261,8 @@
                 "owner": "englerj",
                 "repo": "odin-freetype",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2171,7 +2277,8 @@
                 "owner": "englerj",
                 "repo": "odin-freetype",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2186,7 +2293,8 @@
                 "owner": "harfbuzz",
                 "repo": "harfbuzz",
                 "stars": 6040
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2197,11 +2305,12 @@
                 "archived": false,
                 "id": 49244766,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:37:45Z",
+                "last_commit": "2026-08-29T00:24:40Z",
                 "owner": "unicode-org",
                 "repo": "icu",
-                "stars": 3587
-              }
+                "stars": 3588
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2216,7 +2325,8 @@
                 "owner": "wrathdoesthat",
                 "repo": "odin-magick",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2227,11 +2337,12 @@
                 "archived": false,
                 "id": 35780977,
                 "language": "C",
-                "last_commit": "2026-08-28T00:46:21Z",
+                "last_commit": "2026-08-29T00:22:26Z",
                 "owner": "ImageMagick",
                 "repo": "ImageMagick",
-                "stars": 17235
-              }
+                "stars": 17243
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2246,7 +2357,8 @@
                 "owner": "wrathdoesthat",
                 "repo": "odin-magick",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2257,11 +2369,12 @@
                 "archived": false,
                 "id": 395341383,
                 "language": "C++",
-                "last_commit": "2026-08-26T21:43:18Z",
+                "last_commit": "2026-08-28T10:05:32Z",
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11451
-              }
+                "stars": 11458
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2276,7 +2389,8 @@
                 "owner": "wardjm",
                 "repo": "odin-bfd",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2291,7 +2405,8 @@
                 "owner": "CyberGrandChallenge",
                 "repo": "binutils",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2306,7 +2421,8 @@
                 "owner": "wardjm",
                 "repo": "odin-bfd",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2321,7 +2437,8 @@
                 "owner": "Platin21",
                 "repo": "odin-clang",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2336,7 +2453,8 @@
                 "owner": "Pix-xiP",
                 "repo": "odin-libpcap",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2347,11 +2465,12 @@
                 "archived": false,
                 "id": 9435887,
                 "language": "C",
-                "last_commit": "2026-08-21T13:02:24Z",
+                "last_commit": "2026-08-28T20:41:44Z",
                 "owner": "the-tcpdump-group",
                 "repo": "libpcap",
-                "stars": 3164
-              }
+                "stars": 3165
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2366,7 +2485,8 @@
                 "owner": "henkman",
                 "repo": "odin-libui-ng",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2380,8 +2500,9 @@
                 "last_commit": "2025-03-15T22:37:32Z",
                 "owner": "libui-ng",
                 "repo": "libui-ng",
-                "stars": 879
-              }
+                "stars": 881
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2396,7 +2517,8 @@
                 "owner": "DeLuxe-1337",
                 "repo": "LLVM-Odin",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2411,7 +2533,8 @@
                 "owner": "MineBill",
                 "repo": "odin-luau",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2426,7 +2549,8 @@
                 "owner": "MineBill",
                 "repo": "odin-luau",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2441,7 +2565,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-lz4",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2455,8 +2580,9 @@
                 "last_commit": "2026-07-01T06:42:40Z",
                 "owner": "lz4",
                 "repo": "lz4",
-                "stars": 12035
-              }
+                "stars": 12036
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2471,7 +2597,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-lz4",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2486,7 +2613,8 @@
                 "owner": "cr1sth0fer",
                 "repo": "odin-m3d",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2501,7 +2629,8 @@
                 "owner": "DanielGavin",
                 "repo": "odin-meshoptimizer",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2515,8 +2644,9 @@
                 "last_commit": "2026-08-27T22:35:19Z",
                 "owner": "zeux",
                 "repo": "meshoptimizer",
-                "stars": 8270
-              }
+                "stars": 8277
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2531,7 +2661,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-mimalloc",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2542,11 +2673,12 @@
                 "archived": false,
                 "id": 192805335,
                 "language": "C",
-                "last_commit": "2026-08-22T10:49:34Z",
+                "last_commit": "2026-08-28T22:52:46Z",
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13331
-              }
+                "stars": 13333
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2561,7 +2693,8 @@
                 "owner": "jakubtomsu",
                 "repo": "odin-mimalloc",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2576,7 +2709,8 @@
                 "owner": "hpb0412",
                 "repo": "odin-mpc",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2591,7 +2725,8 @@
                 "owner": "orangeduck",
                 "repo": "mpc",
                 "stars": 2852
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2606,7 +2741,8 @@
                 "owner": "laytan",
                 "repo": "odin-mysql",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2621,7 +2757,8 @@
                 "owner": "laytan",
                 "repo": "odin-mysql",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2636,7 +2773,8 @@
                 "owner": "steinarb1234",
                 "repo": "NRI-odin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2647,11 +2785,12 @@
                 "archived": false,
                 "id": 410967036,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:35:44Z",
+                "last_commit": "2026-08-28T10:19:38Z",
                 "owner": "NVIDIA-RTX",
                 "repo": "NRI",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2666,7 +2805,8 @@
                 "owner": "steinarb1234",
                 "repo": "NRI-odin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2681,7 +2821,8 @@
                 "owner": "cr1sth0fer",
                 "repo": "odin-nuklear",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2695,8 +2836,9 @@
                 "last_commit": "2026-08-08T02:06:24Z",
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11352
-              }
+                "stars": 11359
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2711,7 +2853,8 @@
                 "owner": "Platin21",
                 "repo": "odin-objc",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2726,7 +2869,8 @@
                 "owner": "Platin21",
                 "repo": "odin-objc",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2741,7 +2885,8 @@
                 "owner": "2nafish117",
                 "repo": "odin-renderdoc",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2752,11 +2897,12 @@
                 "archived": false,
                 "id": 17253131,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:02:51Z",
+                "last_commit": "2026-08-28T14:53:53Z",
                 "owner": "baldurk",
                 "repo": "renderdoc",
-                "stars": 11027
-              }
+                "stars": 11032
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2771,7 +2917,8 @@
                 "owner": "2nafish117",
                 "repo": "odin-renderdoc",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2786,7 +2933,8 @@
                 "owner": "yevhen-k",
                 "repo": "onnx-odin-bindings",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2801,7 +2949,8 @@
                 "owner": "yevhen-k",
                 "repo": "onnx-odin-bindings",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2816,7 +2965,8 @@
                 "owner": "elvodqa",
                 "repo": "odin-al",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2831,7 +2981,8 @@
                 "owner": "laytan",
                 "repo": "odin-postgresql",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2846,7 +2997,8 @@
                 "owner": "laytan",
                 "repo": "odin-postgresql",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2861,7 +3013,8 @@
                 "owner": "HOST-Oman",
                 "repo": "libraqm",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2876,7 +3029,8 @@
                 "owner": "Hedgehogsoft",
                 "repo": "RGFW-Odin",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2891,7 +3045,8 @@
                 "owner": "Hedgehogsoft",
                 "repo": "RGFW-Odin",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2906,7 +3061,8 @@
                 "owner": "enerqi",
                 "repo": "odin-rure",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2920,8 +3076,9 @@
                 "last_commit": "2026-08-10T16:19:27Z",
                 "owner": "rust-lang",
                 "repo": "regex",
-                "stars": 4012
-              }
+                "stars": 4014
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2936,7 +3093,8 @@
                 "owner": "enerqi",
                 "repo": "odin-rure",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2950,8 +3108,9 @@
                 "last_commit": "2026-06-10T10:03:31Z",
                 "owner": "jakubtomsu",
                 "repo": "odin-steamworks",
-                "stars": 141
-              }
+                "stars": 142
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2965,8 +3124,9 @@
                 "last_commit": "2026-06-10T10:03:31Z",
                 "owner": "jakubtomsu",
                 "repo": "odin-steamworks",
-                "stars": 141
-              }
+                "stars": 142
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2981,7 +3141,8 @@
                 "owner": "saenai255",
                 "repo": "odin-sqlite3",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -2996,7 +3157,8 @@
                 "owner": "saenai255",
                 "repo": "odin-sqlite3",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3011,7 +3173,8 @@
                 "owner": "duffn",
                 "repo": "odin-tinyfiledialogs",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3026,7 +3189,8 @@
                 "owner": "duffn",
                 "repo": "odin-tinyfiledialogs",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3041,7 +3205,8 @@
                 "owner": "oskarnp",
                 "repo": "odin-tracy",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3056,7 +3221,8 @@
                 "owner": "oskarnp",
                 "repo": "odin-tracy",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3071,7 +3237,8 @@
                 "owner": "cshenton",
                 "repo": "odin-ufbx",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3085,8 +3252,9 @@
                 "last_commit": "2026-08-23T23:59:27Z",
                 "owner": "ufbx",
                 "repo": "ufbx",
-                "stars": 1378
-              }
+                "stars": 1380
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3101,7 +3269,8 @@
                 "owner": "cshenton",
                 "repo": "odin-ufbx",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3116,7 +3285,8 @@
                 "owner": "xandaron",
                 "repo": "odin-ufbx",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3130,8 +3300,9 @@
                 "last_commit": "2026-08-23T23:59:27Z",
                 "owner": "ufbx",
                 "repo": "ufbx",
-                "stars": 1378
-              }
+                "stars": 1380
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3146,7 +3317,8 @@
                 "owner": "xandaron",
                 "repo": "odin-ufbx",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3161,7 +3333,8 @@
                 "owner": "webui-dev",
                 "repo": "odin-webui",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3175,8 +3348,9 @@
                 "last_commit": "2026-08-14T21:24:32Z",
                 "owner": "webui-dev",
                 "repo": "webui",
-                "stars": 4586
-              }
+                "stars": 4587
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3191,7 +3365,8 @@
                 "owner": "webui-dev",
                 "repo": "odin-webui",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3206,7 +3381,8 @@
                 "owner": "ThisDevDane",
                 "repo": "odin-xinput",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3221,7 +3397,8 @@
                 "owner": "ThisDevDane",
                 "repo": "odin-xinput",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3236,7 +3413,8 @@
                 "owner": "enerqi",
                 "repo": "odin-yyjson",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3250,8 +3428,9 @@
                 "last_commit": "2026-08-26T18:01:16Z",
                 "owner": "ibireme",
                 "repo": "yyjson",
-                "stars": 3850
-              }
+                "stars": 3853
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3266,7 +3445,8 @@
                 "owner": "enerqi",
                 "repo": "odin-yyjson",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3281,7 +3461,8 @@
                 "owner": "zpl-zak",
                 "repo": "odin-zeromq",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3296,7 +3477,8 @@
                 "owner": "zpl-zak",
                 "repo": "odin-zeromq",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3311,7 +3493,8 @@
                 "owner": "saenai255",
                 "repo": "odin-wsserver",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3326,7 +3509,8 @@
                 "owner": "Theldus",
                 "repo": "wsServer",
                 "stars": 513
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3341,7 +3525,8 @@
                 "owner": "saenai255",
                 "repo": "odin-wsserver",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3356,7 +3541,8 @@
                 "owner": "DragosPopse",
                 "repo": "odin-slang",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3367,11 +3553,12 @@
                 "archived": false,
                 "id": 93882897,
                 "language": "C++",
-                "last_commit": "2026-08-28T01:44:39Z",
+                "last_commit": "2026-08-29T00:39:13Z",
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5580
-              }
+                "stars": 5584
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3382,11 +3569,12 @@
                 "archived": false,
                 "id": 93882897,
                 "language": "C++",
-                "last_commit": "2026-08-28T01:44:39Z",
+                "last_commit": "2026-08-29T00:39:13Z",
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5580
-              }
+                "stars": 5584
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             }
           ],
           "description": "List of Odin bindings to C/C++ libraries.\nIf you can't find the bindings you need, then you can try using this generator: https://github.com/karl-zylinski/odin-c-bindgen (or write the bindings by hand).",
@@ -3408,11 +3596,12 @@
             "archived": false,
             "id": 74583692,
             "language": "Odin",
-            "last_commit": "2026-08-28T01:13:25Z",
+            "last_commit": "2026-08-28T23:49:58Z",
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11795
-          }
+            "stars": 11802
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3426,8 +3615,9 @@
             "last_commit": "2025-01-11T21:59:46Z",
             "owner": "thetarnav",
             "repo": "odin-wasm",
-            "stars": 137
-          }
+            "stars": 138
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3442,7 +3632,8 @@
             "owner": "Caedo",
             "repo": "raylib_wasm_odin",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3457,7 +3648,8 @@
             "owner": "colinbellino",
             "repo": "odin-sokol-wasm-playground",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3472,7 +3664,8 @@
             "owner": "yevhen-k",
             "repo": "opencv-odin-demo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         }
       ],
       "title": "Resources"
@@ -3489,11 +3682,12 @@
             "archived": false,
             "id": 309684963,
             "language": "Odin",
-            "last_commit": "2026-08-27T15:28:41Z",
+            "last_commit": "2026-08-28T15:45:31Z",
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3508,7 +3702,8 @@
             "owner": "Data-Oriented-House",
             "repo": "PortableBuildTools",
             "stars": 930
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3523,7 +3718,8 @@
             "owner": "laytan",
             "repo": "setup-odin",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3538,7 +3734,8 @@
             "owner": "jtakakura",
             "repo": "asdf-odin",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         }
       ],
       "title": "Tooling"
@@ -3561,7 +3758,8 @@
                 "owner": "colrdavidson",
                 "repo": "spall-web",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3576,7 +3774,8 @@
                 "owner": "colrdavidson",
                 "repo": "spall-web",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3590,8 +3789,9 @@
                 "last_commit": "2026-04-04T14:24:25Z",
                 "owner": "Skytrias",
                 "repo": "todool",
-                "stars": 86
-              }
+                "stars": 87
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3605,8 +3805,9 @@
                 "last_commit": "2026-04-04T14:24:25Z",
                 "owner": "Skytrias",
                 "repo": "todool",
-                "stars": 86
-              }
+                "stars": 87
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3621,7 +3822,8 @@
                 "owner": "laytan",
                 "repo": "todomvc-odin-htmx",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3636,7 +3838,8 @@
                 "owner": "jakubtomsu",
                 "repo": "dungeon-of-quake",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3651,7 +3854,8 @@
                 "owner": "jakubtomsu",
                 "repo": "dungeon-of-quake",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3666,7 +3870,8 @@
                 "owner": "atomicptr",
                 "repo": "ld55",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3681,7 +3886,8 @@
                 "owner": "atomicptr",
                 "repo": "ld55",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3696,7 +3902,8 @@
                 "owner": "keenanwoodall",
                 "repo": "asterboids",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3711,7 +3918,8 @@
                 "owner": "keenanwoodall",
                 "repo": "asterboids",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3726,7 +3934,8 @@
                 "owner": "A1029384756",
                 "repo": "odin-solitaire",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3741,7 +3950,8 @@
                 "owner": "ThadeuFerreira",
                 "repo": "tetris",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3756,7 +3966,8 @@
                 "owner": "matthewelmer",
                 "repo": "my_pong",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3771,7 +3982,8 @@
                 "owner": "Alkamist",
                 "repo": "odin_simple_neural_network",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3786,7 +3998,8 @@
                 "owner": "renpenguin",
                 "repo": "Lasers",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3801,7 +4014,8 @@
                 "owner": "markersniffen",
                 "repo": "odin-d3d11-h264-decode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3816,7 +4030,8 @@
                 "owner": "aribish",
                 "repo": "spurtle",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3831,7 +4046,8 @@
                 "owner": "aribish",
                 "repo": "spurtle",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3846,7 +4062,8 @@
                 "owner": "karl-zylinski",
                 "repo": "atlas-builder",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3861,7 +4078,8 @@
                 "owner": "karl-zylinski",
                 "repo": "atlas-builder",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3876,7 +4094,8 @@
                 "owner": "lucypero",
                 "repo": "lucynes",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3891,7 +4110,8 @@
                 "owner": "lucypero",
                 "repo": "lucynes",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3906,7 +4126,8 @@
                 "owner": "xandaron",
                 "repo": "Bragi",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3921,7 +4142,8 @@
                 "owner": "xandaron",
                 "repo": "Bragi",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3936,7 +4158,8 @@
                 "owner": "helioscout",
                 "repo": "mouniverse",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             },
             {
               "node_type": "item",
@@ -3951,7 +4174,8 @@
                 "owner": "helioscout",
                 "repo": "mouniverse",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:11:14.813Z"
             }
           ],
           "description": "Open-source software implemented in Odin.",
@@ -3973,11 +4197,12 @@
             "archived": false,
             "id": 309684963,
             "language": "Odin",
-            "last_commit": "2026-08-27T15:28:41Z",
+            "last_commit": "2026-08-28T15:45:31Z",
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -3988,11 +4213,12 @@
             "archived": false,
             "id": 309684963,
             "language": "Odin",
-            "last_commit": "2026-08-27T15:28:41Z",
+            "last_commit": "2026-08-28T15:45:31Z",
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4007,7 +4233,8 @@
             "owner": "obiwan87",
             "repo": "odin-intellij",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4022,7 +4249,8 @@
             "owner": "odin-lang",
             "repo": "sublime-odin",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4037,7 +4265,8 @@
             "owner": "odin-lang",
             "repo": "sublime-odin",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4052,7 +4281,8 @@
             "owner": "mattt-b",
             "repo": "odin-mode",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4067,7 +4297,8 @@
             "owner": "mattt-b",
             "repo": "flycheck-odin",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4082,7 +4313,8 @@
             "owner": "mattt-b",
             "repo": "flycheck-odin",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4097,7 +4329,8 @@
             "owner": "Tetralux",
             "repo": "odin.vim",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4112,7 +4345,8 @@
             "owner": "Tetralux",
             "repo": "odin.vim",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4127,7 +4361,8 @@
             "owner": "tree-sitter-grammars",
             "repo": "tree-sitter-odin",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4142,7 +4377,8 @@
             "owner": "ap29600",
             "repo": "tree-sitter-odin",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         }
       ],
       "title": "Editor Support"
@@ -4163,7 +4399,8 @@
             "owner": "Breush",
             "repo": "odin-binding-generator",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4178,7 +4415,8 @@
             "owner": "zhibog",
             "repo": "odin-unittest",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4193,7 +4431,8 @@
             "owner": "dotbmp",
             "repo": "odin-json",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4208,7 +4447,8 @@
             "owner": "vassvik",
             "repo": "odin-gl",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4223,7 +4463,8 @@
             "owner": "JoshuaManton",
             "repo": "odin-sdl2",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4238,7 +4479,8 @@
             "owner": "kevinw",
             "repo": "raylib-odin",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4253,7 +4495,8 @@
             "owner": "librg",
             "repo": "odin-enet",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4268,7 +4511,8 @@
             "owner": "vassvik",
             "repo": "odin-stb",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4283,7 +4527,8 @@
             "owner": "sumofat",
             "repo": "odin_cgltf",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4298,7 +4543,8 @@
             "owner": "atkurtul",
             "repo": "odinvk",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4313,7 +4559,8 @@
             "owner": "SrMordred",
             "repo": "odin-lua",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4328,7 +4575,8 @@
             "owner": "mp768",
             "repo": "odin-lua-bindings",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         },
         {
           "node_type": "item",
@@ -4343,24 +4591,25 @@
             "owner": "laytan",
             "repo": "odin-pattern",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:11:14.813Z"
         }
       ],
       "title": "Deprecated"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:00.685Z",
+    "last_updated": "2026-08-29T01:11:14.813Z",
     "original_repository_info": {
       "archived": false,
       "id": 775074564,
       "language": "Odin",
-      "last_commit": "2026-08-11T17:52:26Z",
+      "last_commit": "2026-08-28T23:34:53Z",
       "owner": "jakubtomsu",
       "repo": "awesome-odin",
-      "stars": 1009
+      "stars": 1010
     },
-    "original_repository_sha": "e0e7cb67eeea39bfc9063d1de9f6e6f33b7e2925",
+    "original_repository_sha": "631d94f97bf66547551e600802ce2cb221a4ac81",
     "enhanced_repository": "enhansome/enhansome-odin",
     "enhanced_repository_description": null,
     "title": "Awesome Getting Started with stars"
