@@ -16,10 +16,10 @@
             "language": "Odin",
             "license": "Zlib",
             "last_commit": "2026-09-03T17:09:30Z",
-            "open_issues": 827,
+            "open_issues": 829,
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11865,
+            "stars": 11871,
             "topics": [
               "compiler",
               "language",
@@ -45,10 +45,10 @@
             "language": "Odin",
             "license": "Zlib",
             "last_commit": "2026-09-03T17:09:30Z",
-            "open_issues": 827,
+            "open_issues": 829,
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11865,
+            "stars": 11871,
             "topics": [
               "compiler",
               "language",
@@ -83,8 +83,8 @@
                     "id": 1126941279,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T18:48:48Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-04T03:35:11Z",
+                    "open_issues": 2,
                     "owner": "jakubtomsu",
                     "repo": "ravn",
                     "stars": 91,
@@ -110,8 +110,8 @@
                     "id": 1126941279,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T18:48:48Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-04T03:35:11Z",
+                    "open_issues": 2,
                     "owner": "jakubtomsu",
                     "repo": "ravn",
                     "stars": 91,
@@ -141,7 +141,7 @@
                     "open_issues": 55,
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": [
                       "gamedev",
                       "odin",
@@ -167,7 +167,7 @@
                     "open_issues": 55,
                     "owner": "karl-zylinski",
                     "repo": "karl2d",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": [
                       "gamedev",
                       "odin",
@@ -487,7 +487,7 @@
                     "open_issues": 2,
                     "owner": "karl-zylinski",
                     "repo": "odin-raylib-hot-reload-game-template",
-                    "stars": 614,
+                    "stars": 617,
                     "topics": [
                       "gamedev",
                       "odin",
@@ -513,7 +513,7 @@
                     "open_issues": 2,
                     "owner": "karl-zylinski",
                     "repo": "odin-raylib-hot-reload-game-template",
-                    "stars": 614,
+                    "stars": 617,
                     "topics": [
                       "gamedev",
                       "odin",
@@ -804,7 +804,7 @@
                     "open_issues": 0,
                     "owner": "JerMakesStuff",
                     "repo": "Dusk",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "game-dev",
                       "odin",
@@ -829,7 +829,7 @@
                     "open_issues": 0,
                     "owner": "JerMakesStuff",
                     "repo": "Dusk",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "game-dev",
                       "odin",
@@ -1092,7 +1092,7 @@
                     "id": 1193874217,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T15:58:16Z",
+                    "last_commit": "2026-09-04T09:57:01Z",
                     "open_issues": 0,
                     "owner": "helioscout",
                     "repo": "moecs",
@@ -1116,7 +1116,7 @@
                     "id": 1193874217,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T15:58:16Z",
+                    "last_commit": "2026-09-04T09:57:01Z",
                     "open_issues": 0,
                     "owner": "helioscout",
                     "repo": "moecs",
@@ -2651,7 +2651,7 @@
                     "open_issues": 16,
                     "owner": "memononen",
                     "repo": "fontstash",
-                    "stars": 782,
+                    "stars": 783,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2672,7 +2672,7 @@
                     "open_issues": 36,
                     "owner": "rxi",
                     "repo": "microui",
-                    "stars": 6828,
+                    "stars": 6829,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2693,7 +2693,7 @@
                     "open_issues": 418,
                     "owner": "nothings",
                     "repo": "stb",
-                    "stars": 34582,
+                    "stars": 34590,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2726,7 +2726,7 @@
                 "open_issues": 3,
                 "owner": "floooh",
                 "repo": "sokol-odin",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2743,11 +2743,11 @@
                 "id": 97212490,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-09-03T17:54:13Z",
+                "last_commit": "2026-09-04T16:23:59Z",
                 "open_issues": 141,
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10259,
+                "stars": 10263,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2764,11 +2764,11 @@
                 "id": 97212490,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-09-03T17:54:13Z",
+                "last_commit": "2026-09-04T16:23:59Z",
                 "open_issues": 141,
                 "owner": "floooh",
                 "repo": "sokol",
-                "stars": 10259,
+                "stars": 10263,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 279,
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18060,
+                "stars": 18068,
                 "topics": [
                   "layout",
                   "ui"
@@ -2897,7 +2897,7 @@
                 "open_issues": 279,
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18060,
+                "stars": 18068,
                 "topics": [
                   "layout",
                   "ui"
@@ -2950,7 +2950,7 @@
                 "open_issues": 25,
                 "owner": "AngusJohnson",
                 "repo": "Clipper2",
-                "stars": 2470,
+                "stars": 2471,
                 "topics": [
                   "algorithm",
                   "boolean-operations",
@@ -3239,11 +3239,11 @@
                 "id": 5050525,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T22:31:02Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-04T19:51:01Z",
+                "open_issues": 95,
                 "owner": "harfbuzz",
                 "repo": "harfbuzz",
-                "stars": 6051,
+                "stars": 6055,
                 "topics": [
                   "aat",
                   "c",
@@ -3293,11 +3293,11 @@
                 "id": 35780977,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:32:15Z",
+                "last_commit": "2026-09-04T10:32:50Z",
                 "open_issues": 162,
                 "owner": "ImageMagick",
                 "repo": "ImageMagick",
-                "stars": 17321,
+                "stars": 17332,
                 "topics": [
                   "command-line-image-tool",
                   "digital-image-editing",
@@ -3348,7 +3348,7 @@
                 "open_issues": 10,
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11486,
+                "stars": 11494,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -3417,7 +3417,7 @@
                 "id": 9435887,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:31:26Z",
+                "last_commit": "2026-09-04T19:12:38Z",
                 "open_issues": 178,
                 "owner": "the-tcpdump-group",
                 "repo": "libpcap",
@@ -3675,11 +3675,11 @@
                 "id": 192805335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:04:11Z",
+                "last_commit": "2026-09-04T19:41:01Z",
                 "open_issues": 308,
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13346,
+                "stars": 13347,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:14.813Z"
@@ -3841,10 +3841,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-03T07:33:06Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "NVIDIA-RTX",
                 "repo": "NRI",
-                "stars": 463,
+                "stars": 464,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:14.813Z"
@@ -3907,7 +3907,7 @@
                 "open_issues": 319,
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11371,
+                "stars": 11373,
                 "topics": [
                   "c",
                   "c89",
@@ -4017,7 +4017,7 @@
                 "open_issues": 49,
                 "owner": "baldurk",
                 "repo": "renderdoc",
-                "stars": 11054,
+                "stars": 11055,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -4589,7 +4589,7 @@
                 "open_issues": 27,
                 "owner": "ufbx",
                 "repo": "ufbx",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": [
                   "c",
                   "cpp",
@@ -4657,7 +4657,7 @@
                 "open_issues": 27,
                 "owner": "ufbx",
                 "repo": "ufbx",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": [
                   "c",
                   "cpp",
@@ -4928,7 +4928,7 @@
                 "open_issues": 21,
                 "owner": "Theldus",
                 "repo": "wsServer",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "c",
                   "library",
@@ -4993,11 +4993,11 @@
                 "id": 93882897,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:57:16Z",
-                "open_issues": 1269,
+                "last_commit": "2026-09-04T18:47:43Z",
+                "open_issues": 1260,
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5616,
+                "stars": 5618,
                 "topics": [
                   "cuda",
                   "d3d12",
@@ -5021,11 +5021,11 @@
                 "id": 93882897,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:57:16Z",
-                "open_issues": 1269,
+                "last_commit": "2026-09-04T18:47:43Z",
+                "open_issues": 1260,
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5616,
+                "stars": 5618,
                 "topics": [
                   "cuda",
                   "d3d12",
@@ -5061,10 +5061,10 @@
             "language": "Odin",
             "license": "Zlib",
             "last_commit": "2026-09-03T17:09:30Z",
-            "open_issues": 827,
+            "open_issues": 829,
             "owner": "odin-lang",
             "repo": "Odin",
-            "stars": 11865,
+            "stars": 11871,
             "topics": [
               "compiler",
               "language",
@@ -5165,7 +5165,7 @@
             "language": "Odin",
             "license": "MIT",
             "last_commit": "2026-09-02T19:03:54Z",
-            "open_issues": 110,
+            "open_issues": 109,
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1170,
@@ -5832,7 +5832,7 @@
             "language": "Odin",
             "license": "MIT",
             "last_commit": "2026-09-02T19:03:54Z",
-            "open_issues": 110,
+            "open_issues": 109,
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1170,
@@ -5857,7 +5857,7 @@
             "language": "Odin",
             "license": "MIT",
             "last_commit": "2026-09-02T19:03:54Z",
-            "open_issues": 110,
+            "open_issues": 109,
             "owner": "DanielGavin",
             "repo": "ols",
             "stars": 1170,
@@ -5882,7 +5882,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-25T18:51:29Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "obiwan87",
             "repo": "odin-intellij",
             "stars": 145,
@@ -6361,7 +6361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:08:19.033Z",
+    "last_updated": "2026-09-04T19:54:41.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Odin libraries, bindings, software and resources",
