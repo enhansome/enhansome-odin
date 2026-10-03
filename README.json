@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Odin Wiki Libs",
-          "description": null,
+          "description": "odin-lang/Odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,8 +15,8 @@
             "id": 74583692,
             "language": "Odin",
             "license": "Zlib",
-            "last_commit": "2026-10-02T16:22:27Z",
-            "open_issues": 861,
+            "last_commit": "2026-10-02T22:25:10Z",
+            "open_issues": 856,
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 12046,
@@ -44,8 +44,8 @@
             "id": 74583692,
             "language": "Odin",
             "license": "Zlib",
-            "last_commit": "2026-10-02T16:22:27Z",
-            "open_issues": 861,
+            "last_commit": "2026-10-02T22:25:10Z",
+            "open_issues": 856,
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 12046,
@@ -74,7 +74,7 @@
                 {
                   "node_type": "item",
                   "title": "Ravn Engine",
-                  "description": null,
+                  "description": "jakubtomsu/ravn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -101,7 +101,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/ravn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -128,7 +128,7 @@
                 {
                   "node_type": "item",
                   "title": "Karl 2D",
-                  "description": null,
+                  "description": "karl-zylinski/karl2d",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -154,7 +154,7 @@
                 {
                   "node_type": "item",
                   "title": "Zlib",
-                  "description": null,
+                  "description": "karl-zylinski/karl2d",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -180,7 +180,7 @@
                 {
                   "node_type": "item",
                   "title": "Jamgine",
-                  "description": null,
+                  "description": "asbott/jamgine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -208,7 +208,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "asbott/jamgine",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -236,7 +236,7 @@
                 {
                   "node_type": "item",
                   "title": "LBP Serialization",
-                  "description": null,
+                  "description": "jakubtomsu/odin-lbp-serialization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -257,7 +257,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/odin-lbp-serialization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -278,7 +278,7 @@
                 {
                   "node_type": "item",
                   "title": "jobs",
-                  "description": null,
+                  "description": "jakubtomsu/jobs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -306,7 +306,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/jobs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -334,7 +334,7 @@
                 {
                   "node_type": "item",
                   "title": "Godot Toolkit",
-                  "description": null,
+                  "description": "dresswithpockets/odin-godot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -362,7 +362,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache 2.0",
-                  "description": null,
+                  "description": "dresswithpockets/odin-godot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -390,7 +390,7 @@
                 {
                   "node_type": "item",
                   "title": "glTF2",
-                  "description": null,
+                  "description": "Pawel82S/glTF2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -411,7 +411,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "Pawel82S/glTF2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -432,7 +432,7 @@
                 {
                   "node_type": "item",
                   "title": "Aseprite loader",
-                  "description": null,
+                  "description": "blob1807/odin-aseprite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -453,7 +453,7 @@
                 {
                   "node_type": "item",
                   "title": "BSD 3-Clause",
-                  "description": null,
+                  "description": "blob1807/odin-aseprite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -474,7 +474,7 @@
                 {
                   "node_type": "item",
                   "title": "Odin + Raylib Hotreloading Template",
-                  "description": null,
+                  "description": "karl-zylinski/odin-raylib-hot-reload-game-template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -500,7 +500,7 @@
                 {
                   "node_type": "item",
                   "title": "Custom",
-                  "description": null,
+                  "description": "karl-zylinski/odin-raylib-hot-reload-game-template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -526,7 +526,7 @@
                 {
                   "node_type": "item",
                   "title": "Anima",
-                  "description": null,
+                  "description": "atomicptr/anima",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -562,7 +562,7 @@
                 {
                   "node_type": "item",
                   "title": "A 2D animation library for Odin. Inspired by the LÖVE library anim8",
-                  "description": null,
+                  "description": "kikito/anim8",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -583,7 +583,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "atomicptr/anima",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -619,7 +619,7 @@
                 {
                   "node_type": "item",
                   "title": "ZTME",
-                  "description": null,
+                  "description": "Z7-Z7L/ZTME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -640,7 +640,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "Z7-Z7L/ZTME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -661,7 +661,7 @@
                 {
                   "node_type": "item",
                   "title": "pathgrid",
-                  "description": null,
+                  "description": "scoobery/odin_pathgrid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -682,7 +682,7 @@
                 {
                   "node_type": "item",
                   "title": "BSD 3-Clause \"New\" or \"Revised\"",
-                  "description": null,
+                  "description": "scoobery/odin_pathgrid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -703,7 +703,7 @@
                 {
                   "node_type": "item",
                   "title": "VEFontCache",
-                  "description": null,
+                  "description": "Ed94/VEFontCache-Odin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -763,7 +763,7 @@
                 {
                   "node_type": "item",
                   "title": "Custom",
-                  "description": null,
+                  "description": "Ed94/VEFontCache-Odin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -791,7 +791,7 @@
                 {
                   "node_type": "item",
                   "title": "Dusk",
-                  "description": null,
+                  "description": "JerMakesStuff/Dusk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -816,7 +816,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "JerMakesStuff/Dusk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -841,7 +841,7 @@
                 {
                   "node_type": "item",
                   "title": "mikktspace",
-                  "description": null,
+                  "description": "wrapperup/odin-mikktspace",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -862,7 +862,7 @@
                 {
                   "node_type": "item",
                   "title": "zlib",
-                  "description": null,
+                  "description": "wrapperup/odin-mikktspace",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -883,7 +883,7 @@
                 {
                   "node_type": "item",
                   "title": "Valhalla",
-                  "description": null,
+                  "description": "xandaron/Valhalla",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -904,7 +904,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "xandaron/Valhalla",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -925,7 +925,7 @@
                 {
                   "node_type": "item",
                   "title": "Anvil",
-                  "description": null,
+                  "description": "ariaghora/anvil",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -946,7 +946,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "ariaghora/anvil",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -967,7 +967,7 @@
                 {
                   "node_type": "item",
                   "title": "muninn",
-                  "description": null,
+                  "description": "GuilHartt/muninn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -997,7 +997,7 @@
                 {
                   "node_type": "item",
                   "title": "zlib",
-                  "description": null,
+                  "description": "GuilHartt/muninn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1027,7 +1027,7 @@
                 {
                   "node_type": "item",
                   "title": "odecs",
-                  "description": null,
+                  "description": "NateTheGreatt/odecs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1055,7 +1055,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "NateTheGreatt/odecs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1083,7 +1083,7 @@
                 {
                   "node_type": "item",
                   "title": "moecs",
-                  "description": null,
+                  "description": "helioscout/moecs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1107,7 +1107,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "helioscout/moecs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1131,7 +1131,7 @@
                 {
                   "node_type": "item",
                   "title": "Odin Unity Interop",
-                  "description": null,
+                  "description": "herohiralal/com.herohiralal.odininterop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1152,7 +1152,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache 2.0",
-                  "description": null,
+                  "description": "herohiralal/com.herohiralal.odininterop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1203,7 +1203,7 @@
                 {
                   "node_type": "item",
                   "title": "Vox loader",
-                  "description": null,
+                  "description": "jakubtomsu/odin-vox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1224,7 +1224,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/odin-vox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1245,7 +1245,7 @@
                 {
                   "node_type": "item",
                   "title": "LDtk utility",
-                  "description": null,
+                  "description": "jakubtomsu/odin-ldtk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1272,7 +1272,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/odin-ldtk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1299,7 +1299,7 @@
                 {
                   "node_type": "item",
                   "title": "Tiled loader",
-                  "description": null,
+                  "description": "SabeDoesThings/odin-tiled",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1320,7 +1320,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "SabeDoesThings/odin-tiled",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1341,7 +1341,7 @@
                 {
                   "node_type": "item",
                   "title": "File Formats",
-                  "description": null,
+                  "description": "Kelimion/odin-file-formats",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1362,7 +1362,7 @@
                 {
                   "node_type": "item",
                   "title": "BSD-3",
-                  "description": null,
+                  "description": "Kelimion/odin-file-formats",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1383,7 +1383,7 @@
                 {
                   "node_type": "item",
                   "title": "INI Parser",
-                  "description": null,
+                  "description": "laytan/odin-ini-parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1406,7 +1406,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "laytan/odin-ini-parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1429,7 +1429,7 @@
                 {
                   "node_type": "item",
                   "title": "PDB Reader",
-                  "description": null,
+                  "description": "DaseinPhaos/pdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1450,7 +1450,7 @@
                 {
                   "node_type": "item",
                   "title": "BSD-2-Clause",
-                  "description": null,
+                  "description": "DaseinPhaos/pdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1471,7 +1471,7 @@
                 {
                   "node_type": "item",
                   "title": "Java classfile parser",
-                  "description": null,
+                  "description": "FourteenBrush/Classreader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1498,7 +1498,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "FourteenBrush/Classreader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1546,7 +1546,7 @@
                 {
                   "node_type": "item",
                   "title": "TOML Parser",
-                  "description": null,
+                  "description": "Up05/toml_parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1569,7 +1569,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "Up05/toml_parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1620,7 +1620,7 @@
                 {
                   "node_type": "item",
                   "title": "Odin HTTP",
-                  "description": null,
+                  "description": "laytan/odin-http",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1629,7 +1629,7 @@
                     "id": 637533282,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T00:02:37Z",
+                    "last_commit": "2026-10-02T23:56:05Z",
                     "open_issues": 21,
                     "owner": "laytan",
                     "repo": "odin-http",
@@ -1646,7 +1646,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "laytan/odin-http",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1655,7 +1655,7 @@
                     "id": 637533282,
                     "language": "Odin",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T00:02:37Z",
+                    "last_commit": "2026-10-02T23:56:05Z",
                     "open_issues": 21,
                     "owner": "laytan",
                     "repo": "odin-http",
@@ -1679,7 +1679,7 @@
                 {
                   "node_type": "item",
                   "title": "Gjallarhorn",
-                  "description": null,
+                  "description": "Lvcky-gg/Gjallarhorn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1709,7 +1709,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "Lvcky-gg/Gjallarhorn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1739,7 +1739,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphQL Parser",
-                  "description": null,
+                  "description": "thetarnav/odin-graphql-parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1765,7 +1765,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "thetarnav/odin-graphql-parser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1791,7 +1791,7 @@
                 {
                   "node_type": "item",
                   "title": "Open-OstrichDB",
-                  "description": null,
+                  "description": "Archetype-Dynamics/Open-OstrichDB",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1822,7 +1822,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache 2.0",
-                  "description": null,
+                  "description": "Archetype-Dynamics/Open-OstrichDB",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1853,7 +1853,7 @@
                 {
                   "node_type": "item",
                   "title": "OstrichDB-CLI",
-                  "description": null,
+                  "description": "Archetype-Dynamics/OstrichDB-CLI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1889,7 +1889,7 @@
                 {
                   "node_type": "item",
                   "title": "Apache 2.0",
-                  "description": null,
+                  "description": "Archetype-Dynamics/OstrichDB-CLI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1932,7 +1932,7 @@
                 {
                   "node_type": "item",
                   "title": "Mustache",
-                  "description": null,
+                  "description": "benjamindblock/odin-mustache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1953,7 +1953,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "benjamindblock/odin-mustache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1974,7 +1974,7 @@
                 {
                   "node_type": "item",
                   "title": "Temple",
-                  "description": null,
+                  "description": "laytan/temple",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1995,7 +1995,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "laytan/temple",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2016,7 +2016,7 @@
                 {
                   "node_type": "item",
                   "title": "Templateless",
-                  "description": null,
+                  "description": "nviam/odin-templateless",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2037,7 +2037,7 @@
                 {
                   "node_type": "item",
                   "title": "1-Clause BSD NON-AI",
-                  "description": null,
+                  "description": "nviam/odin-templateless",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2086,7 +2086,7 @@
                 {
                   "node_type": "item",
                   "title": "Piece Table",
-                  "description": null,
+                  "description": "xDahl/Piece-Table",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2107,7 +2107,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "xDahl/Piece-Table",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2156,7 +2156,7 @@
                 {
                   "node_type": "item",
                   "title": "ADS1256 driver",
-                  "description": null,
+                  "description": "Platin21/ads1256-odin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2177,7 +2177,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "Platin21/ads1256-odin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2240,7 +2240,7 @@
                 {
                   "node_type": "item",
                   "title": "Snowflake",
-                  "description": null,
+                  "description": "laytan/odin-snowflake",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2263,7 +2263,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "laytan/odin-snowflake",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2307,7 +2307,7 @@
                 {
                   "node_type": "item",
                   "title": "Odin-style CLI Argument Parser",
-                  "description": null,
+                  "description": "SjVer/ClOdin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2338,7 +2338,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "SjVer/ClOdin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2369,7 +2369,7 @@
                 {
                   "node_type": "item",
                   "title": "Terminal Color",
-                  "description": null,
+                  "description": "hrszpuk/odin-color",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2399,7 +2399,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "hrszpuk/odin-color",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2429,7 +2429,7 @@
                 {
                   "node_type": "item",
                   "title": "Muninn: Logging for Odin",
-                  "description": null,
+                  "description": "dlroy88osu/Muninn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2454,7 +2454,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "dlroy88osu/Muninn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2486,7 +2486,7 @@
                 {
                   "node_type": "item",
                   "title": "Blaise",
-                  "description": null,
+                  "description": "gingerBill/blaise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2507,7 +2507,7 @@
                 {
                   "node_type": "item",
                   "title": "BSD Zero Clause",
-                  "description": null,
+                  "description": "gingerBill/blaise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2528,7 +2528,7 @@
                 {
                   "node_type": "item",
                   "title": "VecC",
-                  "description": null,
+                  "description": "jakubtomsu/vecc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2549,7 +2549,7 @@
                 {
                   "node_type": "item",
                   "title": "MIT",
-                  "description": null,
+                  "description": "jakubtomsu/vecc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2570,7 +2570,7 @@
                 {
                   "node_type": "item",
                   "title": "Runic",
-                  "description": null,
+                  "description": "Samudevv/runic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2597,7 +2597,7 @@
                 {
                   "node_type": "item",
                   "title": "GNU v2.0",
-                  "description": null,
+                  "description": "Samudevv/runic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2651,7 +2651,7 @@
                     "open_issues": 16,
                     "owner": "memononen",
                     "repo": "fontstash",
-                    "stars": 785,
+                    "stars": 786,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2693,7 +2693,7 @@
                     "open_issues": 432,
                     "owner": "nothings",
                     "repo": "stb",
-                    "stars": 34765,
+                    "stars": 34768,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:11:14.813Z"
@@ -2713,7 +2713,7 @@
             {
               "node_type": "item",
               "title": "Sokol",
-              "description": null,
+              "description": "floooh/sokol-odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2755,7 +2755,7 @@
             {
               "node_type": "item",
               "title": "zlib",
-              "description": null,
+              "description": "floooh/sokol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2776,7 +2776,7 @@
             {
               "node_type": "item",
               "title": "Assimp",
-              "description": null,
+              "description": "CoolDove/odin-assimp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2797,7 +2797,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "CoolDove/odin-assimp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2818,7 +2818,7 @@
             {
               "node_type": "item",
               "title": "bcm2835",
-              "description": null,
+              "description": "Platin21/odin-bcm2835",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "Platin21/odin-bcm2835",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,7 +2860,7 @@
             {
               "node_type": "item",
               "title": "clay",
-              "description": null,
+              "description": "nicbarker/clay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2873,7 +2873,7 @@
                 "open_issues": 279,
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18208,
+                "stars": 18209,
                 "topics": [
                   "layout",
                   "ui"
@@ -2884,7 +2884,7 @@
             {
               "node_type": "item",
               "title": "zlib/libpng",
-              "description": null,
+              "description": "nicbarker/clay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2897,7 +2897,7 @@
                 "open_issues": 279,
                 "owner": "nicbarker",
                 "repo": "clay",
-                "stars": 18208,
+                "stars": 18209,
                 "topics": [
                   "layout",
                   "ui"
@@ -2908,7 +2908,7 @@
             {
               "node_type": "item",
               "title": "Clipper2",
-              "description": null,
+              "description": "Anaxarchus/odin_clipper2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2937,7 +2937,7 @@
             {
               "node_type": "item",
               "title": "BSL-1.0",
-              "description": null,
+              "description": "AngusJohnson/Clipper2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2976,7 +2976,7 @@
             {
               "node_type": "item",
               "title": "CUE SDK",
-              "description": null,
+              "description": "Kelimion/odin-cue-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3025,7 +3025,7 @@
             {
               "node_type": "item",
               "title": "Unlicense",
-              "description": null,
+              "description": "Kelimion/odin-cue-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3046,7 +3046,7 @@
             {
               "node_type": "item",
               "title": "EFSW",
-              "description": null,
+              "description": "dch-GH/efsw-odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3067,7 +3067,7 @@
             {
               "node_type": "item",
               "title": "Bindings for the Entropia file system watcher",
-              "description": null,
+              "description": "diegostamigni/efsw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3088,7 +3088,7 @@
             {
               "node_type": "item",
               "title": "Unknown",
-              "description": null,
+              "description": "dch-GH/efsw-odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3130,7 +3130,7 @@
             {
               "node_type": "item",
               "title": "FMOD",
-              "description": null,
+              "description": "jakubtomsu/odin-fmod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3159,7 +3159,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "jakubtomsu/odin-fmod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3188,7 +3188,7 @@
             {
               "node_type": "item",
               "title": "Freetype",
-              "description": null,
+              "description": "englerj/odin-freetype",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3209,7 +3209,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "englerj/odin-freetype",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3239,8 +3239,8 @@
                 "id": 5050525,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:14:31Z",
-                "open_issues": 98,
+                "last_commit": "2026-10-03T03:33:24Z",
+                "open_issues": 97,
                 "owner": "harfbuzz",
                 "repo": "harfbuzz",
                 "stars": 6111,
@@ -3263,7 +3263,7 @@
             {
               "node_type": "item",
               "title": "ImageMagick",
-              "description": null,
+              "description": "wrathdoesthat/odin-magick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3293,11 +3293,11 @@
                 "id": 35780977,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:58:18Z",
+                "last_commit": "2026-10-03T01:30:28Z",
                 "open_issues": 164,
                 "owner": "ImageMagick",
                 "repo": "ImageMagick",
-                "stars": 17575,
+                "stars": 17579,
                 "topics": [
                   "command-line-image-tool",
                   "digital-image-editing",
@@ -3314,7 +3314,7 @@
             {
               "node_type": "item",
               "title": "Custom",
-              "description": null,
+              "description": "wrathdoesthat/odin-magick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3348,7 +3348,7 @@
                 "open_issues": 13,
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11643,
+                "stars": 11645,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -3387,7 +3387,7 @@
             {
               "node_type": "item",
               "title": "libpcap",
-              "description": null,
+              "description": "Pix-xiP/odin-libpcap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3408,7 +3408,7 @@
             {
               "node_type": "item",
               "title": "Bindings for libpcap",
-              "description": null,
+              "description": "the-tcpdump-group/libpcap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3418,7 +3418,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T08:40:18Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "the-tcpdump-group",
                 "repo": "libpcap",
                 "stars": 3174,
@@ -3438,7 +3438,7 @@
             {
               "node_type": "item",
               "title": "libui-ng",
-              "description": null,
+              "description": "henkman/odin-libui-ng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3508,7 +3508,7 @@
             {
               "node_type": "item",
               "title": "Luau",
-              "description": null,
+              "description": "MineBill/odin-luau",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3532,7 +3532,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "MineBill/odin-luau",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3556,7 +3556,7 @@
             {
               "node_type": "item",
               "title": "LZ4",
-              "description": null,
+              "description": "jakubtomsu/odin-lz4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3609,7 +3609,7 @@
             {
               "node_type": "item",
               "title": "BSD 2 Clause",
-              "description": null,
+              "description": "jakubtomsu/odin-lz4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3637,7 +3637,7 @@
             {
               "node_type": "item",
               "title": "Mimalloc",
-              "description": null,
+              "description": "jakubtomsu/odin-mimalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3666,7 +3666,7 @@
             {
               "node_type": "item",
               "title": "Bindings for mimalloc",
-              "description": null,
+              "description": "microsoft/mimalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3675,8 +3675,8 @@
                 "id": 192805335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:19:07Z",
-                "open_issues": 299,
+                "last_commit": "2026-10-03T02:45:26Z",
+                "open_issues": 293,
                 "owner": "microsoft",
                 "repo": "mimalloc",
                 "stars": 13424,
@@ -3687,7 +3687,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "jakubtomsu/odin-mimalloc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3716,7 +3716,7 @@
             {
               "node_type": "item",
               "title": "mpc",
-              "description": null,
+              "description": "hpb0412/odin-mpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3764,7 +3764,7 @@
             {
               "node_type": "item",
               "title": "MySql",
-              "description": null,
+              "description": "laytan/odin-mysql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3787,7 +3787,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "laytan/odin-mysql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3810,7 +3810,7 @@
             {
               "node_type": "item",
               "title": "NRI",
-              "description": null,
+              "description": "steinarb1234/NRI-odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3852,7 +3852,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "steinarb1234/NRI-odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3873,7 +3873,7 @@
             {
               "node_type": "item",
               "title": "Nuklear",
-              "description": null,
+              "description": "cr1sth0fer/odin-nuklear",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3925,7 +3925,7 @@
             {
               "node_type": "item",
               "title": "ObjC",
-              "description": null,
+              "description": "Platin21/odin-objc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3952,7 +3952,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "Platin21/odin-objc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3979,7 +3979,7 @@
             {
               "node_type": "item",
               "title": "odin-renderdoc",
-              "description": null,
+              "description": "2nafish117/odin-renderdoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4037,7 +4037,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "2nafish117/odin-renderdoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4062,7 +4062,7 @@
             {
               "node_type": "item",
               "title": "ONNX",
-              "description": null,
+              "description": "yevhen-k/onnx-odin-bindings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4083,7 +4083,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "yevhen-k/onnx-odin-bindings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4125,7 +4125,7 @@
             {
               "node_type": "item",
               "title": "PostgreSQL",
-              "description": null,
+              "description": "laytan/odin-postgresql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4146,7 +4146,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "laytan/odin-postgresql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4188,7 +4188,7 @@
             {
               "node_type": "item",
               "title": "RGFW",
-              "description": null,
+              "description": "Hedgehogsoft/RGFW-Odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4224,7 +4224,7 @@
             {
               "node_type": "item",
               "title": "CC0",
-              "description": null,
+              "description": "Hedgehogsoft/RGFW-Odin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4260,7 +4260,7 @@
             {
               "node_type": "item",
               "title": "Rure",
-              "description": null,
+              "description": "enerqi/odin-rure",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4281,7 +4281,7 @@
             {
               "node_type": "item",
               "title": "Bindings for Rust Regex",
-              "description": null,
+              "description": "rust-lang/regex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4314,7 +4314,7 @@
             {
               "node_type": "item",
               "title": "zlib",
-              "description": null,
+              "description": "enerqi/odin-rure",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4335,7 +4335,7 @@
             {
               "node_type": "item",
               "title": "Steamworks",
-              "description": null,
+              "description": "jakubtomsu/odin-steamworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4363,7 +4363,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "jakubtomsu/odin-steamworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4391,7 +4391,7 @@
             {
               "node_type": "item",
               "title": "SQLite3",
-              "description": null,
+              "description": "saenai255/odin-sqlite3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4412,7 +4412,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "saenai255/odin-sqlite3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4433,7 +4433,7 @@
             {
               "node_type": "item",
               "title": "tinyfiledialogs",
-              "description": null,
+              "description": "duffn/odin-tinyfiledialogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4458,7 +4458,7 @@
             {
               "node_type": "item",
               "title": "zlib",
-              "description": null,
+              "description": "duffn/odin-tinyfiledialogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4483,7 +4483,7 @@
             {
               "node_type": "item",
               "title": "Tracy",
-              "description": null,
+              "description": "oskarnp/odin-tracy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4519,7 +4519,7 @@
             {
               "node_type": "item",
               "title": "BSD-2-Clause",
-              "description": null,
+              "description": "oskarnp/odin-tracy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4555,7 +4555,7 @@
             {
               "node_type": "item",
               "title": "ufbx",
-              "description": null,
+              "description": "cshenton/odin-ufbx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4602,7 +4602,7 @@
             {
               "node_type": "item",
               "title": "Unlicense",
-              "description": null,
+              "description": "cshenton/odin-ufbx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4623,7 +4623,7 @@
             {
               "node_type": "item",
               "title": "ufbx (xandron's updated fork)",
-              "description": null,
+              "description": "xandaron/odin-ufbx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4670,7 +4670,7 @@
             {
               "node_type": "item",
               "title": "Unlicense",
-              "description": null,
+              "description": "xandaron/odin-ufbx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4691,7 +4691,7 @@
             {
               "node_type": "item",
               "title": "WebUI",
-              "description": null,
+              "description": "webui-dev/odin-webui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4750,7 +4750,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "webui-dev/odin-webui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4779,7 +4779,7 @@
             {
               "node_type": "item",
               "title": "yyjson",
-              "description": null,
+              "description": "enerqi/odin-yyjson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4800,7 +4800,7 @@
             {
               "node_type": "item",
               "title": "Bindings for yyjson",
-              "description": null,
+              "description": "ibireme/yyjson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4831,7 +4831,7 @@
             {
               "node_type": "item",
               "title": "zlib",
-              "description": null,
+              "description": "enerqi/odin-yyjson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4852,7 +4852,7 @@
             {
               "node_type": "item",
               "title": "zeromq",
-              "description": null,
+              "description": "zpl-zak/odin-zeromq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4873,7 +4873,7 @@
             {
               "node_type": "item",
               "title": "Apache 2.0",
-              "description": null,
+              "description": "zpl-zak/odin-zeromq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4894,7 +4894,7 @@
             {
               "node_type": "item",
               "title": "wsServer",
-              "description": null,
+              "description": "saenai255/odin-wsserver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4942,7 +4942,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "saenai255/odin-wsserver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4963,7 +4963,7 @@
             {
               "node_type": "item",
               "title": "Odin-Slang",
-              "description": null,
+              "description": "DragosPopse/odin-slang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4984,7 +4984,7 @@
             {
               "node_type": "item",
               "title": "Bings for Shader-Slang",
-              "description": null,
+              "description": "shader-slang/slang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4993,11 +4993,11 @@
                 "id": 93882897,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:59:08Z",
-                "open_issues": 1418,
+                "last_commit": "2026-10-03T04:20:59Z",
+                "open_issues": 1424,
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5691,
+                "stars": 5690,
                 "topics": [
                   "cuda",
                   "d3d12",
@@ -5012,7 +5012,7 @@
             {
               "node_type": "item",
               "title": "Apache-2.0",
-              "description": null,
+              "description": "shader-slang/slang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5021,11 +5021,11 @@
                 "id": 93882897,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:59:08Z",
-                "open_issues": 1418,
+                "last_commit": "2026-10-03T04:20:59Z",
+                "open_issues": 1424,
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5691,
+                "stars": 5690,
                 "topics": [
                   "cuda",
                   "d3d12",
@@ -5060,8 +5060,8 @@
             "id": 74583692,
             "language": "Odin",
             "license": "Zlib",
-            "last_commit": "2026-10-02T16:22:27Z",
-            "open_issues": 861,
+            "last_commit": "2026-10-02T22:25:10Z",
+            "open_issues": 856,
             "owner": "odin-lang",
             "repo": "Odin",
             "stars": 12046,
@@ -5233,7 +5233,7 @@
             {
               "node_type": "item",
               "title": "Spall Web",
-              "description": null,
+              "description": "colrdavidson/spall-web",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5262,7 +5262,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "colrdavidson/spall-web",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5291,7 +5291,7 @@
             {
               "node_type": "item",
               "title": "Todool",
-              "description": null,
+              "description": "Skytrias/todool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5315,7 +5315,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "Skytrias/todool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5365,7 +5365,7 @@
             {
               "node_type": "item",
               "title": "LD55 - The Last Summoner",
-              "description": null,
+              "description": "atomicptr/ld55",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5394,7 +5394,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "atomicptr/ld55",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5423,7 +5423,7 @@
             {
               "node_type": "item",
               "title": "Asterboids",
-              "description": null,
+              "description": "keenanwoodall/asterboids",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5444,7 +5444,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "keenanwoodall/asterboids",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5591,7 +5591,7 @@
             {
               "node_type": "item",
               "title": "Spurtle",
-              "description": null,
+              "description": "aribish/spurtle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5612,7 +5612,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "aribish/spurtle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5633,7 +5633,7 @@
             {
               "node_type": "item",
               "title": "Atlas Builder",
-              "description": null,
+              "description": "karl-zylinski/atlas-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5657,7 +5657,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "karl-zylinski/atlas-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5681,7 +5681,7 @@
             {
               "node_type": "item",
               "title": "lucynes",
-              "description": null,
+              "description": "lucypero/lucynes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5702,7 +5702,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "lucypero/lucynes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5723,7 +5723,7 @@
             {
               "node_type": "item",
               "title": "Bragi",
-              "description": null,
+              "description": "xandaron/Bragi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5744,7 +5744,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "xandaron/Bragi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5765,7 +5765,7 @@
             {
               "node_type": "item",
               "title": "mouniverse",
-              "description": null,
+              "description": "helioscout/mouniverse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5788,7 +5788,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "helioscout/mouniverse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5822,7 +5822,7 @@
         {
           "node_type": "item",
           "title": "OLS",
-          "description": null,
+          "description": "DanielGavin/ols",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5847,7 +5847,7 @@
         {
           "node_type": "item",
           "title": "MIT",
-          "description": null,
+          "description": "DanielGavin/ols",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5924,7 +5924,7 @@
         {
           "node_type": "item",
           "title": "Flycheck",
-          "description": null,
+          "description": "mattt-b/flycheck-odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5950,7 +5950,7 @@
         {
           "node_type": "item",
           "title": "Unlicense",
-          "description": null,
+          "description": "mattt-b/flycheck-odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5976,7 +5976,7 @@
         {
           "node_type": "item",
           "title": "Vim",
-          "description": null,
+          "description": "Tetralux/odin.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6003,7 +6003,7 @@
         {
           "node_type": "item",
           "title": "MIT",
-          "description": null,
+          "description": "Tetralux/odin.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6030,7 +6030,7 @@
         {
           "node_type": "item",
           "title": "Tree Sitter",
-          "description": null,
+          "description": "tree-sitter-grammars/tree-sitter-odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6055,7 +6055,7 @@
         {
           "node_type": "item",
           "title": "MIT",
-          "description": null,
+          "description": "ap29600/tree-sitter-odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6361,7 +6361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:27:02.516Z",
+    "last_updated": "2026-10-03T05:03:20.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Odin libraries, bindings, software and resources",
